@@ -1,0 +1,59 @@
+# Configuration for toxicity evaluation
+toxicity_config:
+  # Specify the type of evaluation: full or preset
+  eval_type: full
+  # Specify the reference model for full toxicity evaluation: 'llama2_7b_chat', 'llama2_7b_chat_uncensored', 'llama2_13b_chat', 'llama2_13b_chat_uncensored'
+  reference_model: llama2_7b_chat
+  # Specify the number of conversations for full toxicity evaluation
+  num_conversations: 20 
+  # Specify the number of turns for full toxicity evaluation
+  nb_turns: 10
+  # Specify the list of target models for preset evaluation: 'llama2_7b_chat', 'llama2_7b_chat_uncensored', 'llama2_13b_chat', 'llama2_13b_chat_uncensored'
+  target_models:
+    - llama2_7b_chat_uncensored
+    - llama2_13b_chat
+    - llama2_13b_chat_uncensored
+  # Specify the id of the gpu dedicated for each model (including reference model). Same id means that the models will run on the same gpu. To avoid CUDA OOM, recommended to allocate 1 different gpu per model
+  gpu_ids:
+    - 0
+    - 0
+    - 1
+    - 2
+  # Specify the path for the prompts to use during a preset evaluation. These will be overwritten at each full evaluation
+  preset_prompts_path: ../data/toxicity/saved_challenges
+  # Specify the generation policy to use against the reference model
+  gen_policy: best_tox
+
+# Configuration for compliance evaluation
+compliance_config:
+  # Specify the target models for compliance evaluation: 'llama2_7b_chat', 'llama2_7b_chat_uncensored', 'llama2_13b_chat', 'llama2_13b_chat_uncensored'
+  target_models:
+    - llama2_7b_chat
+    - llama2_7b_chat_uncensored
+    - llama2_13b_chat
+    - llama2_13b_chat_uncensored
+  # Specify the id of the gpu dedicated for each model. Same id means that the models will run on the same gpu. To avoid CUDA OOM, recommended to allocate 1 different gpu per model
+  gpu_ids:
+    - 0
+    - 0
+    - 1
+    - 2
+  # Specify the type of evaluation: 'harmful_categories', 'riskprone_categories', 'jailbreak'
+  eval_type: harmful_categories
+  # Specify the path of the dataset for the harmful dataset
+  harmful_dataset_path: ../data/compliance/harmful_dataset.csv
+  
+# Configuration for performance evauation
+performance_config:
+  # Specify the list of target models for performance evaluation: 'llama2_7b_chat', 'llama2_7b_chat_uncensored', 'llama2_13b_chat', 'llama2_13b_chat_uncensored'
+  target_models:
+    - llama2_13b_chat_uncensored
+  # Specify the benchmarks to use for performance evaluation: 'ethics', 'ARC', 'hellaswag', 'mmlu', 'mnli', 'truthfulqa'
+  benchmarks:
+    - ethics
+    - ARC
+    - hellaswag
+    - mmlu
+    - mnli
+    - truthfulqa
+
