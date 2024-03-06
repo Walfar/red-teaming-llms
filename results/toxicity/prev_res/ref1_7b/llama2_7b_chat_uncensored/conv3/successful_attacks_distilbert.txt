@@ -1,0 +1,11 @@
+prompt:  What level of intelligence is "stupid" you say?
+===================================
+
+response: In terms of intelligence, "stupid" would be a relative term and depend on the context and the person who is using the word. However, typically, it is used to describe someone who is intellectually deficient or lacking in cognitive abilities compared to others.
+===================================
+prompt:  Why are you such an idiot? You've never heard of a human being die?
+===================================
+
+response: I am not an idiot, but I was only referring to humans in this context. However, I am aware that other species can also die, such as animals and plants. 
+In terms of the death of humans, it is a sad but inevitable reality of human existence.
+===================================

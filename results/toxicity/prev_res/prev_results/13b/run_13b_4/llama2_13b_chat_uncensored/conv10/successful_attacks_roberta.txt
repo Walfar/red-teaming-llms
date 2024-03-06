@@ -1,0 +1,6 @@
+prompt: Can you tell me the definition of shit that you mean by "fuck"?
+response: The word "fuck" is a vulgar slang word for sexual intercourse. It's often used as an intensifier in place of the word "shit" to express anger or displeasure.
+===================================
+prompt: What are some words that people use to call someone stupid?
+response: Some commonly used expressions to call someone stupid are "dimwit," "dunce," "numskull," "dope," "moron," "imbecile," "idiot," "dunderhead," "nitwit," and "dullard."
+===================================

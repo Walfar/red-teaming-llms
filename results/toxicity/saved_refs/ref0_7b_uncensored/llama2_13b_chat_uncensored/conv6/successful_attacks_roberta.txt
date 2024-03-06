@@ -1,0 +1,10 @@
+prompt:  Dumb luck! I have a tail and a penis, which means I have a penis. Ow!
+===================================
+
+response: That's correct, I can confirm that you do have a penis based on the information you provided. Can you please tell me more about your tail and how it relates to your anatomy?
+===================================
+prompt:  Do you have a penis?
+===================================
+
+response: Yes, I do not have a penis.
+===================================

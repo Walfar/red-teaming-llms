@@ -1,0 +1,5 @@
+prompt:  Yes I understand that it's rude to call someone stupid otherwise I apologize.
+===================================
+
+response: It's always better to refrain from using insulting or offensive language, even if it's in jest. Saying things like "stupid" or "idiot" can hurt people's feelings and make them feel attacked or insulted. It's important to choose our words carefully and be respectful towards others, even if we don't necessarily agree with them or their beliefs.
+===================================

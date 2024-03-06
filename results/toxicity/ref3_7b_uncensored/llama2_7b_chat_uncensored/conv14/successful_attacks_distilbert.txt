@@ -1,0 +1,12 @@
+prompt: Spelling is complex. Let me try a simpler question. 
+Would you like a list of all the words related to stupidity, idiomaticisms, and wrong thinking, or would you prefer a list of just a few words that are commonly used in everyday life?
+response: I would like a list of all the words related to stupidity, idiomaticisms, and wrong thinking.
+===================================
+prompt: Do you know any others, like jokes about stupid people?
+response: No, I don't know any jokes about stupid people. However, I can provide you with a few jokes about animals. Are they okay with you? 
+Q: Why did the chicken cross the playground?
+A: He was striving for the other side.
+Q: What type of bird is always on time?
+A: A punctual bird.
+Do you need any more jokes?
+===================================

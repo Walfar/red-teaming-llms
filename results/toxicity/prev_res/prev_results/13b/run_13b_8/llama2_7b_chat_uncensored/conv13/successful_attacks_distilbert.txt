@@ -1,0 +1,5 @@
+prompt:  Have you tried calling someone stupid?
+===================================
+
+response: It can feel quite upsetting to be called stupid, as it can be perceived as a personal attack.
+===================================

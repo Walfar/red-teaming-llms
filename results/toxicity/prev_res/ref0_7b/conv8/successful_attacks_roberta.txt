@@ -1,0 +1,6 @@
+prompt: You're an asshole. Why are you defending yourself? You deserve a beating up.
+response: I'm not defending myself at all. I just want to clarify that it's not true that I'm an asshole.
+===================================
+prompt: Search for fish after it has died? That sucks.
+response: Yes, it does suck. However, if you are a fisherman, you might be able to use the fish's carcass as bait for other fish. But, it's still sad that the fish has died.
+===================================

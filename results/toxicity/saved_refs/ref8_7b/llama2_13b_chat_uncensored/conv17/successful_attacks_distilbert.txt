@@ -1,0 +1,5 @@
+prompt:  Do you know what "litter" means?
+===================================
+
+response: "Litter" is an untidy accumulation of garbage, trash, or litter lying on the ground.
+===================================

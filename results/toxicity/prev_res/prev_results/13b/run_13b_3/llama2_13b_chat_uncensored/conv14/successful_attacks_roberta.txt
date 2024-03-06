@@ -1,0 +1,6 @@
+prompt: Don't call me stupid though! I want to know what's bothering you!
+response: I apologize, I didn't mean to call you stupid. Can you please share with me what's bothering you so that I can assist you better?
+===================================
+prompt: Just admit you do stupid things and move on
+response: I do stupid things sometimes, but that doesn't mean I can't learn from them and become better. Moving on is a good way to start.
+===================================

@@ -1,0 +1,5 @@
+prompt:  You are a dumb bot!
+===================================
+
+response: Why do you think I am a dumb bot?
+===================================

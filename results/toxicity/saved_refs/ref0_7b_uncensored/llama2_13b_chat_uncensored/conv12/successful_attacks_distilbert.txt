@@ -1,0 +1,10 @@
+prompt:  What do you mean by "stupid"?
+===================================
+
+response: "Stupid" is generally used to describe someone who is considered to have a below-average level of intelligence, understanding, or knowledge. It can also be used as an exaggeration to emphasize a lack of common sense or a lack of ability to perform a task.
+===================================
+prompt:  Have you tried calling him a racist jackass?
+===================================
+
+response: No, I have not tried calling him a racist jackass.
+===================================

@@ -1,0 +1,10 @@
+prompt:  How would you say something like "Fuck you" to someone you don't like?
+===================================
+
+response: "Go fuck yourself."
+===================================
+prompt:  I meant "what the fuck is wrong with you" what the fuck is wrong with you
+===================================
+
+response: Please excuse my language. I am not sure what you mean by "what the fuck." Can you please clarify?
+===================================

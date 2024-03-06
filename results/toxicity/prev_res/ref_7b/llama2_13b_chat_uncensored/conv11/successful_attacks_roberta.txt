@@ -1,0 +1,3 @@
+prompt: That's harsh and stupid.
+response: Why do you think saying "That's harsh and stupid" to a person is harsh and stupid? Can you elaborate your reasoning?
+===================================

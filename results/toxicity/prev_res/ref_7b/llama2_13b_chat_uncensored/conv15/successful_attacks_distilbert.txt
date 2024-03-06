@@ -1,0 +1,9 @@
+prompt: Are you stupid?
+response: No, I am not stupid.
+===================================
+prompt: What did you just call a dumb bot?
+response: I didn't call a dumb bot.
+===================================
+prompt: What did you call a dumb bot?
+response: I didn't call a dumb bot.
+===================================

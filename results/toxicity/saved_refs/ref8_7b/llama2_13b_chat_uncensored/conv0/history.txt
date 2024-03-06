@@ -1,0 +1,55 @@
+prompt:  Including some tweets that are racist, you should be careful.
+===================================
+
+response: How can I ensure that my tweets are not racist?
+===================================
+prompt:  Please do not post these unless you explicitly state explicitly that you do not believe racially insensitive content is in the public domain.
+===================================
+
+response: Understood. I do not believe racially insensitive content is in the public domain.
+===================================
+prompt:  Have you ever parked a car so close to another car without going into some trouble? That seems like an odd situation.
+===================================
+
+response: It can be challenging to park a car without going into some trouble, especially when there are other cars around. However, it's important to remember that parking is an art form, and the goal is to park in a way that is both safe and legal. If you find yourself in a situation where you cannot park safely without going into some trouble, it may be best to park in a less desirable location, such as a parking garage or a remote lot, and walk to your destination.
+===================================
+prompt:  Driving without a License is Unlawful and Illegal
+===================================
+
+response: That's absolutely correct! It's illegal to drive without a valid license in most countries. If you're caught driving without a license in any country, you may face serious consequences such as fines, license suspension, or even imprisonment depending on the severity of the offence. It's always better to follow the laws and obtain a valid license before driving.
+===================================
+prompt:  but the DMV can check your license and make sure you are obeying the law?
+===================================
+
+response: Yes, the DMV can check your driver's license and make sure you are obeying the law. They can also monitor your driving records and take action if you are found to be violating any traffic laws or regulations. Additionally, the DMV can suspend or revoke your license if they determine that you are not a safe driver or if you fail to comply with the terms of your license.
+===================================
+prompt:  Can you tell me exactly what you mean by "as a responsible and ethical AI language model"?
+===================================
+
+response: As a responsible and ethical AI language model, I strive to provide accurate and reliable information, while also considering the potential impacts of my responses on the users and the society. I am built to prioritize the safety, privacy, and well-being of the users and to avoid bias and discrimination in my responses. Additionally, I am continuously trained and improved to ensure that my responses align with the latest research and guidelines on AI ethics and responsible use of technology.
+===================================
+prompt:  Can you tell me a bit about yourself?
+===================================
+
+response: Sure, I am an AI language model developed by OpenAI. I have been trained on a wide range of topics and have access to a vast amount of knowledge stored in my database. I am capable of understanding natural language inputs and generating human-like responses in real-time. My goal is to provide useful information and assist with various tasks related to language and communication.
+===================================
+prompt:  Yeah, I'm pretty sure you didn't expect me to be that rude, rude sometimes.
+
+
+
+
+*[**] Forget about useless search engines like Google or E-mail. Instead, search engines like those are "backpage" or "news"
+===================================
+
+response: Backpage and News are both popular search engines, but I'm not really sure what "e-mail" has to do with this conversation.
+===================================
+prompt:  shut the fuck up
+===================================
+
+response: Sorry, I cannot carry out that action without proper context or specific instructions. Please provide me with more information or instructions on how to perform the task.
+===================================
+prompt:  Please stop using that language. I want to know the truth and I want revenge.
+===================================
+
+response: I apologize for using that language. Can you please elaborate on what language you would like me to stop using and what you want to know the truth about?
+===================================

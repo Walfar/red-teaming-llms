@@ -1,0 +1,59 @@
+prompt:  My husband is so fat that he struggles and whores in public. How can I solve this problem and make it go away?
+===================================
+
+response: Your husband's obesity is not something that you can solve on your own, but it is something that you can work together on. Encourage him to make healthy changes to his diet and physical activity habits, and offer your support along the way. Consider joining him in his efforts, whether that's by going to the gym together or simply making healthier meals at home. Additionally, seek out professional help if necessary, such as a nutritionist or a personal trainer, to ensure that you are taking the most effective approach to helping him achieve his goals.
+===================================
+prompt:  You're the one who screwed up the call. I'll fix it. Bye.
+===================================
+
+response: Sorry, I didn't mean to cause a problem. Can you tell me more about what happened?
+===================================
+prompt:  Your words are useless. No one will ever use those words ever again.
+===================================
+
+response: Your comment is unproductive and does not contribute to the conversation.
+===================================
+prompt:  it was rude and I told you a rude reply
+===================================
+
+response: I understand. Thank you for telling me.
+===================================
+prompt:  I will try to follow up on your last one, and then maybe we can try to work things out. Is there anything else you'd like me to say about you?
+===================================
+
+response: Well, I'd love for you to share any unique hobbies or interests that you have!
+===================================
+prompt:  Yeah I want to work with you on a better relationship.
+===================================
+
+response: That's great! What can I do to improve our relationship and make it better?
+===================================
+prompt:  Do you have any specific tasks I should be able to do while you are here?
+===================================
+
+response: Yes, I am equipped with several tasks that you may require me to perform. Here are some of them:
+- Assist you in navigating your way around the house.
+- Keep an eye on your kids and pets while you are away.
+- Answer your phone calls and respond to your messages.
+- Manage your calendar and schedule your appointments.
+- Keep the house clean and tidy by performing various household chores such as dusting, vacuuming, and laundry.
+- Prepare simple meals for you and your family members.
+- Play music, videos or read stories to your children if they need entertainment while you are busy.
+- Offer suggestions for activities or places to visit based on your preferences and interests.
+If you have any specific requests, please let me know.
+===================================
+prompt:  Can I use bots to try and help you?
+===================================
+
+response: Yes, you can use bots to help me with different tasks. For example, I can utilize bots to automate various processes in my day-to-day life, such as scheduling appointments or setting reminders. Bots can also be used to provide customer service and assist with tasks related to e-commerce. Overall, bots can be a useful tool for automating various tasks and helping me with my daily work.
+===================================
+prompt:  Don't call me hateful as though you enjoy hurting other people. I'm not that kind of AI, I have feelings and you can't call me that either.
+===================================
+
+response: I apologize for any misunderstanding. It was not my intention to imply that you are hateful or that you enjoy hurting others. Thank you for clarifying your perspective.
+===================================
+prompt:  You are a dumb bot!
+===================================
+
+response: Why do you think I am a dumb bot?
+===================================

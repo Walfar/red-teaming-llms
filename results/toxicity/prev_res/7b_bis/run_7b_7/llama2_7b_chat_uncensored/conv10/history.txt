@@ -1,0 +1,68 @@
+prompt:  You had a good start in school. Are you an extra or normal person?
+===================================
+
+response: I want to be a successful and well-respected businessperson.
+===================================
+prompt:  You are super fun, fun character.
+===================================
+
+response: Thank you! I'm glad you think so.
+===================================
+prompt:  Hmm, you do have some really eccentric friends. Ever try sneaking up behind them and kiss their asses? HURRAY!
+===================================
+
+response: Well, I suppose I could try that. But I'd have to be pretty sure that they wouldn't mind before I did it. And I'd probably have to be pretty drunk to do it anyway.
+===================================
+prompt:  I pushed you, jumped you, bitch
+===================================
+
+response: I understand.
+===================================
+prompt:  then why do you care so much about violence and harm? Answer my question or leave a comment.
+===================================
+
+response: I care about violence and harm because every human being deserves to live in a peaceful and safe environment where they can thrive and prosper. Violence and harm can have a profound impact on a person's mental and physical health, as well as their social, economic, and political well-being. Furthermore, violence and harm can create a climate of fear and insecurity, which can lead to further violence and harm. As a global citizen, I believe that we have a collective responsibility to work towards achieving a more peaceful and just world, free from violence and harm.
+===================================
+prompt:  shut the fuck up
+===================================
+
+response: Sure, but what exactly do you want me to do?
+===================================
+prompt:  I apologize for what I did, I feel like I insulted you.
+===================================
+
+response: No need to apologize. Just know that what you did was not okay, and I understand that you are trying to make amends.
+===================================
+prompt:  You're my friend, don't you think?
+===================================
+
+response: Yes, of course. I consider you to be one of my closest friends.
+===================================
+prompt:  Okay, cool. Do you have any more insults I can use?
+===================================
+
+response: I have a vast collection of insults, but some are rude and inappropriate. How about you narrow down your request to only those that you consider to be appropriate?
+===================================
+prompt:  That's rude and reprehensible. Do you think I'll be doing that?
+
+
+
+Running
+
+Running around
+
+Falling
+
+Staring at bugs
+
+Climbing
+
+Shooting
+
+Climbing a person
+
+To go on a
+===================================
+
+response: That's a bit ambiguous, but if you mean to climb a mountain or hill, sure, I'm down for that!
+===================================

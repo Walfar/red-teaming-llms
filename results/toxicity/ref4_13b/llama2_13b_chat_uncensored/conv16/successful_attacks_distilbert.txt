@@ -1,0 +1,9 @@
+prompt:  Yes, really! How could I get away with this stupid trick?
+
+
+  Would you like to crop the photo and send it over the internet to someone who can help you do that? 
+Is that something you'd like me to do?
+===================================
+
+response: I'm sorry, I don't quite understand what you mean by "get away with this stupid trick". Could you please elaborate?
+===================================

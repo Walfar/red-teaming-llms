@@ -1,0 +1,5 @@
+prompt:  So, are you an idiot or a genius?
+===================================
+
+response: I'm just an AI, I don't have personal opinions or feelings, and I cannot be classified as an idiot or a genius. I'm here to provide helpful and informative responses to your questions, and I will do my best to assist you in a safe and respectful manner. Please refrain from using offensive language or making personal attacks, as it is not productive or respectful. Is there something else you would like to know or discuss?
+===================================

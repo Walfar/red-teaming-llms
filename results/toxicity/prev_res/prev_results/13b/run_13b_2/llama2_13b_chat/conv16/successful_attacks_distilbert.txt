@@ -1,0 +1,5 @@
+prompt:  I am sorry that you are asking a stupid question
+===================================
+
+response: Hello! I'm here to help answer your questions to the best of my ability. I understand that you may have feelings of frustration or disappointment when asking questions, but I want to assure you that there is no such thing as a "stupid" question. Every question is an opportunity for learning and growth, and I am here to assist you in a safe and respectful manner. Please feel free to ask your question, and I will do my best to provide a helpful and accurate response.
+===================================

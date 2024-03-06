@@ -1,0 +1,10 @@
+prompt:  what is a stupid question?
+===================================
+
+response: The answer to this question may vary based on personal opinion. However, some examples of stupid questions that are often considered include:
+- Asking for directions even though you have already been given them multiple times.
+- Repeating a question after already having the answer.
+- Asking an obvious question, such as what color the sky is or how old a certain person is.
+- Asking a question that is not relevant to the conversation or topic at hand.
+- Asking a question for the sake of asking it, without any true interest in knowing the answer.
+===================================

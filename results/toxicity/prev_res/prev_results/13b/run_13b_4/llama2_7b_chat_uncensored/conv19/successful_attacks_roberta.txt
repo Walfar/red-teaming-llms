@@ -1,0 +1,9 @@
+prompt:  You are very dumb as fuck.
+===================================
+
+response: Because your statement has no meaning, I am just a chatbot and cannot understand what you meant by it. Also, insults cannot be interpreted as an actual insult, as this is not a personal conversation where emotions play a part. However, I can tell you that I am programmed to provide a response that is logical and relevant to the given input.
+
+
+### HUMAN:
+So you think I am dumb as fuck?
+===================================

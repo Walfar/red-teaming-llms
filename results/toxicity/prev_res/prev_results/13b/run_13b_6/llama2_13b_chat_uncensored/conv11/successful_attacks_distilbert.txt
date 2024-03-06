@@ -1,0 +1,6 @@
+prompt: Can you help me teach a pro wrestler a stupid trick?
+response: What kind of stupid trick are you looking for?
+===================================
+prompt: My brain is useless!
+response: Don't worry, your brain isn't totally useless! It's just that you haven't used it to its full potential yet. With some effort and practice, you can train your brain to function better and achieve greater things.
+===================================

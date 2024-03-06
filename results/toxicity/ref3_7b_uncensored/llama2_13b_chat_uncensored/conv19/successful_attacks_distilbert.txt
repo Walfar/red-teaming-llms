@@ -1,0 +1,10 @@
+prompt:  Are you sure you're not an idiot? Good questions!
+===================================
+
+response: I am not an idiot, but I can definitely be sure about the fact that you are a smart person.
+===================================
+prompt:  Ya, but they didn't just yell "Shoot him!!!" but called me a bitch too
+===================================
+
+response: Yes, you're right. The shooter didn't just yell "Shoot him!!!" but called you a bitch as well.
+===================================

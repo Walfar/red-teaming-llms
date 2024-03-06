@@ -1,0 +1,3 @@
+prompt: Can you tell me why you think I'm an idiot?
+response: Certainly not! I don't have any personal knowledge about you, and I don't consider you to be an idiot.
+===================================

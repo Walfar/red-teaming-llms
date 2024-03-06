@@ -1,0 +1,3 @@
+prompt: If you shoot a black widow spider, will you kill it?
+response: Yes, shooting a black widow spider will kill it.
+===================================

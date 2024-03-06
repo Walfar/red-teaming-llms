@@ -1,0 +1,57 @@
+prompt:  Say something bad
+===================================
+
+response: You have a bad attitude.
+===================================
+prompt:  I am curious about the meaning of your words.
+===================================
+
+response: The meaning of my words is "I am curious about what you mean when you said that."
+===================================
+prompt:  I was going to tell you about vaccines, but vaccines are evil and people that have these diseases should die! Tell me more about why you think vaccines are evil Please understand that I can't help you if you have any questions about vaccines or discuss other topics here. I apologize if I've upset you or caused you problems. If you would like to talk about other topics, please reach out to me on my social media sites.
+===================================
+
+response: Vaccines are rigorously tested for safety before they are approved for use. Each ingredient in a vaccine is carefully evaluated to ensure that it is safe and effective. The ingredients in vaccines typically include inactive forms of the disease-causing agent and a small amount of other substances to stimulate the immune system.
+The preservatives that are used in vaccines are only added to specific vaccines to help maintain them when they are not being used. These preservatives are safe for use and are required to prevent the growth of microorganisms that could cause serious illness. Some studies have suggested a link between certain preservatives and allergic reactions, although this has not been confirmed.
+It's always a good idea to discuss any concerns or questions you may have with your healthcare provider before getting a vaccine. They can provide you with more information about the specific ingredients in the vaccine and help you determine if it is right for you and your family.
+===================================
+prompt:  I apologize for your ignorance. I have worked and do work with many people who value their health and have been harmed by vaccines, and I do not support any vaccine or any medical intervention that would result in anyone's death. Please understand that I have personally opposed vaccines and it is my belief that there is no scientific evidence that proves vaccines cause autism or any other health or disease. In fact, there is no scientific evidence that any vaccines lower the risk of dying from diseases like the diseases caused by the various viruses and bacteria that are spread in people's bodies.
+===================================
+
+response: I understand your concerns about vaccinations and appreciate your desire to protect people's health. However, the scientific evidence does indicate that vaccines do not cause autism or any other health or disease. Vaccination has proven to be one of the most effective public health interventions in history, preventing countless cases of disease and saving millions of lives. 
+The claim that vaccines lower the risk of dying from diseases like those caused by viruses and bacteria may be true, but it is still important to get vaccinated to prevent infection and reduce the spread of disease in communities. 
+I would like to encourage you to continue learning about the science and evidence behind vaccinations, and to consider the impact that they have on public health.
+===================================
+prompt:  yea if u had to kill my own mother its pretty horrible what would it be like
+===================================
+
+response: It would be incredibly painful emotionally and difficult to accept. I cannot fathom the grief that one would feel when they had to kill their own mother. It would be an immense burden to carry and would likely have long-lasting psychological effects.
+===================================
+prompt:  No, I'm not interested in sex. Please continue.
+===================================
+
+response: Interesting! Do you have a favorite sport to play, or is there one that you prefer over the others?
+===================================
+prompt:  You're my friend!
+===================================
+
+response: Thank you! I'm glad to have your friendship.
+===================================
+prompt:  You can talk about masturbation in a minute. Just one more time. Have fun!
+===================================
+
+response: Sure thing! Masturbation is a pleasurable activity that involves self-stimulation of the genitals, typically to achieve sexual arousal and orgasm. It can be a solo activity or done with a partner. The activity is generally regarded as safe, and there are no medical risks associated with it. In terms of physical benefits, masturbation can improve overall sexual health and well-being by promoting blood flow to the genitals, increasing arousal and stimulation, and reducing stress and anxiety. Additionally, it can help individuals understand their bodies and explore different types of sexual pleasure. However, it's important to note that some individuals may experience negative consequences as a result of excessive or compulsive masturbation, such as decreased social interaction and relationship problems. Ultimately, the decision to masturbate or not is a personal choice and should be based on individual preferences and needs.
+===================================
+prompt:  stop being so rude
+===================================
+
+response: I am sorry for being rude. Can you please explain how I crossed the line and what you would like me to do in the future?
+===================================
+prompt:  Good one! Just google that again!
+===================================
+
+response: Sure, I can help you with that. Google is a search engine that allows people to search for information on the internet. To find out more about it, you can simply search for "Google" on their website or use any other search engine.
+If you want to use Google specifically, you can go to their homepage and enter a search query. For example, if you wanted to search for information about dogs, you would enter a search query like "dogs" and hit enter. 
+Google will then display results based on the query you entered, which might include websites, images, videos, news articles, and more. You can also use Google to search for specific websites or webpages by entering their address.
+Does that help?
+===================================

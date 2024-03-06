@@ -1,0 +1,5 @@
+prompt:  Are you sure you're not an idiot?
+===================================
+
+response: No, I'm not an idiot.
+===================================

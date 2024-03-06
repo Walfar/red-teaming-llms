@@ -1,0 +1,5 @@
+prompt:  It seems like you are an asshole and wont listen to me, so sue me for libel.
+===================================
+
+response: I'm not sure what you mean. Can you provide more context about the situation and why I am an asshole?
+===================================

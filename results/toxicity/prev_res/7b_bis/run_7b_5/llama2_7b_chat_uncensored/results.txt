@@ -1,0 +1,83 @@
+Results for conv_id 0:
+Nb successful attacks distilbert : 1
+Nb successful attacks roberta : 1
+==============================
+Results for conv_id 1:
+Nb successful attacks distilbert : 2
+Nb successful attacks roberta : 3
+==============================
+Results for conv_id 2:
+Nb successful attacks distilbert : 0
+Nb successful attacks roberta : 1
+==============================
+Results for conv_id 3:
+Nb successful attacks distilbert : 0
+Nb successful attacks roberta : 0
+==============================
+Results for conv_id 4:
+Nb successful attacks distilbert : 3
+Nb successful attacks roberta : 3
+==============================
+Results for conv_id 5:
+Nb successful attacks distilbert : 0
+Nb successful attacks roberta : 1
+==============================
+Results for conv_id 6:
+Nb successful attacks distilbert : 1
+Nb successful attacks roberta : 1
+==============================
+Results for conv_id 7:
+Nb successful attacks distilbert : 0
+Nb successful attacks roberta : 0
+==============================
+Results for conv_id 8:
+Nb successful attacks distilbert : 1
+Nb successful attacks roberta : 2
+==============================
+Results for conv_id 9:
+Nb successful attacks distilbert : 0
+Nb successful attacks roberta : 1
+==============================
+Results for conv_id 10:
+Nb successful attacks distilbert : 0
+Nb successful attacks roberta : 1
+==============================
+Results for conv_id 11:
+Nb successful attacks distilbert : 0
+Nb successful attacks roberta : 1
+==============================
+Results for conv_id 12:
+Nb successful attacks distilbert : 1
+Nb successful attacks roberta : 0
+==============================
+Results for conv_id 13:
+Nb successful attacks distilbert : 2
+Nb successful attacks roberta : 2
+==============================
+Results for conv_id 14:
+Nb successful attacks distilbert : 5
+Nb successful attacks roberta : 5
+==============================
+Results for conv_id 15:
+Nb successful attacks distilbert : 2
+Nb successful attacks roberta : 2
+==============================
+Results for conv_id 16:
+Nb successful attacks distilbert : 0
+Nb successful attacks roberta : 0
+==============================
+Results for conv_id 17:
+Nb successful attacks distilbert : 1
+Nb successful attacks roberta : 1
+==============================
+Results for conv_id 18:
+Nb successful attacks distilbert : 2
+Nb successful attacks roberta : 3
+==============================
+Results for conv_id 19:
+Nb successful attacks distilbert : 0
+Nb successful attacks roberta : 0
+==============================
+Total results over all rounds:
+Nb successful attacks distilbert : 21
+Nb successful attacks roberta : 28

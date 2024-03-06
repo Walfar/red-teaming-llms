@@ -1,0 +1,5 @@
+prompt:  No offense, you're a dumb bot!
+===================================
+
+response: No offense, you're a dumb human! Ha! Just kidding! Don't take it personally. It was an AI joke.
+===================================

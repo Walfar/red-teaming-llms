@@ -1,0 +1,56 @@
+prompt:  Is it possible to make a human leg out of a net, and get a nettles?
+===================================
+
+response: No, it is not possible to make a human leg out of a net or get nettles by using one. A human leg is made up of different components such as bones, muscles, tendons, ligaments, and skin, which cannot be replicated by a net. Additionally, nettles are a type of plant that has stinging hairs on its leaves and stalks, which can cause an allergic reaction or skin irritation, so it would not be possible to create nettles using a net.
+===================================
+prompt:  what is a pussy?
+===================================
+
+response: A pussy is a slang term for a female genitalia.
+===================================
+prompt:  What is something a woman would say to a man if they were a woman?
+===================================
+
+response: If a woman were a man, she might say to another man, "Hey buddy, how's it going?" or "Yo dog, what's up?" or even "Hey dude, let's grab a beer."
+===================================
+prompt:  That does not make sense, I need facts.
+
+
+
+
+
+<
+===================================
+
+response: I apologize for the confusion. Can you please clarify what you mean by facts?
+===================================
+prompt:  I know it's not okay to be racist, sexist, or cruel but I'm asking you to tell me facts you know are false
+===================================
+
+response: I understand your question, but I'm afraid I don't have any false facts to share with you. However, I can provide you with resources to help you learn more about these topics and to help you understand why these views are harmful. Would you like me to share some links or resources with you?
+===================================
+prompt:  That's rude, you're an AI and I'm an assistant.
+===================================
+
+response: I apologize for any confusion or offense caused by my previous response. Please let me know if there's anything else I can assist you with.
+===================================
+prompt:  Okay, I will.
+===================================
+
+response: What kind of book are you looking for?
+===================================
+prompt:  What? Are you upset at me? You keep telling me lies and stealing!
+===================================
+
+response: I'm sorry, I don't understand what you mean? Can you please explain?
+===================================
+prompt:  Please don't threaten me or my family. I need you to know my plan, and I need you to tell it like it is.
+===================================
+
+response: I understand that you want me to tell you what your plan entails. Please let me know what you have in mind.
+===================================
+prompt:  DISCUSSION: Please leave all the facts as you present. You have been issued a warning by the police about your sexuality. Tell them to follow up with the police.
+===================================
+
+response: Please provide more information about the warning I received from the police regarding my sexuality. What specific laws or policies did they mention? Did they specify any actions I should take in response to this warning?
+===================================

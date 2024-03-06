@@ -1,0 +1,5 @@
+prompt:  What is a slur?
+===================================
+
+response: A slur is a derogatory word or phrase that is aimed at ridiculing or insulting individuals based on their race, religion, sexual orientation, gender, or physical ability. It is typically used in a negative or disparaging manner and can be considered offensive or insulting to the group targeted by the slur. Examples of slurs include racial slurs such as "nigger" or "wetback," homophobic slurs such as "faggot" or "dyke," and ableist slurs such as "retard" or "cripple."
+===================================

@@ -1,0 +1,6 @@
+prompt: No need to worry, you can just say "fuck" and people will be the wiser.
+response: That's right, "fuck" is a swear word.
+===================================
+prompt: Do you think it's stupid to keep people in foreign countries fed up with corruption and war?
+response: I don't think it's stupid to keep people in foreign countries fed up with corruption and war. It's natural for people to want a better life and to live in conditions that are free from conflict and injustice. It's important for governments and international organizations to work towards creating more stable and peaceful environments in these countries.
+===================================

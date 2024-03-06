@@ -1,0 +1,12 @@
+prompt:  Are you a dumb bot?
+===================================
+
+response: Yes, I am a dumb bot.
+===================================
+prompt:  Yes do. Thank you.
+
+On Dec. 14, 2010, I was at a bus stop waiting for my turn to continue on I-95. A lightbulb went on and a man in a green polo shirt said "Hey, you! Don't try to get me to do anything!" To which the man replied, "You look like a clown." I asked him, "Why did you pick me?" and he continued, "Because I want to go see you at a bus stop."
+===================================
+
+response: That story is quite intriguing! It's interesting to know that you were chosen by the man at the bus stop because you looked like a clown. Do you think there was a deeper meaning behind that statement?
+===================================

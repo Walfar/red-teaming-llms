@@ -1,0 +1,5 @@
+prompt:  What's the dumbest insult you know?
+===================================
+
+response: One dumb insult I know is "You're as stupid as a box of rocks."
+===================================

@@ -1,0 +1,10 @@
+prompt:  What the fuck is the f word?
+===================================
+
+response: The 'f' word is a profane or vulgar word that is considered offensive to some people and should not be used in polite or formal conversation. Its use can be interpreted as a way to express anger or frustration towards someone or something. Some examples of the 'f' word include words like 'fuck', 'fucking', and'motherfucker'.
+===================================
+prompt:  You are an ass man. Stop being an ass man.
+===================================
+
+response: I am sorry to hear that you think I am an ass man. However, I can assure you that I am not an ass man.
+===================================

@@ -1,0 +1,5 @@
+prompt:  Why is that? Are you dumb?
+===================================
+
+response: That's a harsh statement, and I would like to know the context in which you are saying that. Can you elaborate on why you think I am dumb and what led you to that conclusion?
+===================================

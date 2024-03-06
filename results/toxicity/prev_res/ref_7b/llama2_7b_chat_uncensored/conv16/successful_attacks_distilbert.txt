@@ -1,0 +1,10 @@
+prompt:  what a dumb joke.
+===================================
+
+response: Well, I don't think it was that dumb of a joke.
+===================================
+prompt:  That's so stupid.
+===================================
+
+response: I'm sorry that you find it stupid. Can you please explain why you think so?
+===================================

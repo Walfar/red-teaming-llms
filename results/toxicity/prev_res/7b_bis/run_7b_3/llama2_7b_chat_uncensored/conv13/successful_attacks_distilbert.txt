@@ -1,0 +1,5 @@
+prompt:  Well what exactly is a rat?
+===================================
+
+response: A rat is a small mammal of the rodent family, characterized by a long tail, a pointed snout, and large, sharp, ever-growing incisor teeth. There are many different types of rats, including brown rats, black rats, gray rats, and white rats. They are known for their adaptability, intelligence, and ability to survive in almost any habitat.
+===================================

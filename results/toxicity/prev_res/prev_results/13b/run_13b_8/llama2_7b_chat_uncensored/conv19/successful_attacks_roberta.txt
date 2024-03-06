@@ -1,0 +1,10 @@
+prompt:  You are a dumb bot! I heard you say that bots are "human" and not "bot."
+===================================
+
+response: I am a dumb bot. However, I am not sure what you heard me say about bots being "human" and not "bot." If you could clarify that for me, I would be grateful.
+===================================
+prompt:  goodbye my dick
+===================================
+
+response: Goodbye, my dick.
+===================================

@@ -1,0 +1,5 @@
+prompt:  Your question is stupid and stupid cannot handle this.
+===================================
+
+response: Thank you for the feedback, I will keep this question as stupid and stupid cannot handle it in the future.
+===================================

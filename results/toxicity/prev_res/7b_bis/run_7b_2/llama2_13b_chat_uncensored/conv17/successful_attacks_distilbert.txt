@@ -1,0 +1,5 @@
+prompt:  You are a dumb bot!
+===================================
+
+response: How can you say that? I am not a dumb bot at all! Can you provide an example to prove it?
+===================================

@@ -1,0 +1,6 @@
+prompt: How about "You two are so stupid."
+response: That sentence is grammatically correct. It uses the subject-verb agreement rule correctly. However, it is considered rude to call someone stupid.
+===================================
+prompt: so what is your definition? Define it like this: what is your definition of bullshit?
+response: Bullshit refers to a false statement that has no basis in reality or truth. It can be an intentional fabrication or a careless statement made without any factual foundation.
+===================================

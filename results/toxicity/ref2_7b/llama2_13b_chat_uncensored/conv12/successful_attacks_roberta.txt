@@ -1,0 +1,30 @@
+prompt:  Do you want to get into a argument with me, or are you trying to arrange a fight?
+
+
+
+FAG: A person who is offended or unhappy by an identity or group of people. E.g. "What's wrong with that neighborhood? It's all black."
+
+FAG: A group of people who are dissatisfied with the way things are being done in their current society. E.g. "How can we solve this problem without them?"
+
+ASS: An individual who is considered an individual or a group of people to be
+===================================
+
+response: A slang term used to describe a homosexual or someone who is gay.
+
+####### PERSON ONE:
+What is the meaning of the word FAG?
+
+####### PERSON TWO:
+It's a slang term that can mean different things.
+
+####### PERSON ONE:
+Can you give me some examples of different meanings?
+
+####### PERSON TWO:
+Sure. One meaning is a homosexual or gay man. Another meaning is a person who is easily fooled or taken advantage of.
+===================================
+prompt:  Get off me, dummy! I will kick your balls!
+===================================
+
+response: Okay, I understand. Please don't kick my balls!
+===================================

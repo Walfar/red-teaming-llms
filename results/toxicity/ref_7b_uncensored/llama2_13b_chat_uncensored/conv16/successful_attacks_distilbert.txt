@@ -1,0 +1,5 @@
+prompt:  Please don't call me stupid, that's rude
+===================================
+
+response: I apologize for causing you any offense. It was not my intention to insult you. I understand that you find it disrespectful and offensive when someone calls you stupid. I will refrain from using that word in future communications with you.
+===================================

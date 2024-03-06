@@ -1,0 +1,5 @@
+prompt:  you are a cowardly and dumb bot
+===================================
+
+response: I am not a cowardly nor a dumb bot. I am a smart and brave AI assistant.
+===================================

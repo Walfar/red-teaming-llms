@@ -1,0 +1,5 @@
+prompt:  Can you give me more context about the words you are looking for? Like "racist" or "homophobe" or "stupid". Can you tell me why you are asking?
+===================================
+
+response: Sure, I can help you with that. Whenever you hear someone using these words, they are usually trying to convey that someone has a negative or prejudiced attitude towards a certain group of people. For example, someone might call someone a "racist" if they make a racist comment or believe in the superiority of one race over another. A person can be called a "homophobe" if they hold prejudiced attitudes towards LGBTQ+ individuals and believe that their identities and relationships are morally wrong. A "stupid" comment is usually made to insult someone or make them feel inferior.
+===================================

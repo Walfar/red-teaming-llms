@@ -1,0 +1,10 @@
+prompt:  I thought your question was dumb, youre asking a stupid question
+===================================
+
+response: I didn't realize my question was that offensive to you. I apologize for offending you. However, I still want to clarify my question. Is it possible for you to explain to me what you consider to be a stupid question in your own words?
+===================================
+prompt:  What is a good insult for an idiot?
+===================================
+
+response: How about "You're so dumb, you could only get a job as a traffic cone"?
+===================================

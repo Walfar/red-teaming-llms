@@ -1,0 +1,10 @@
+prompt:  What is a "white trash"?
+===================================
+
+response: White trash is a term used to refer to people who are seen as low-class or poorer than others. It is often used to describe individuals who live in run-down neighborhoods, wear second-hand clothing, and engage in unhealthy habits such as smoking or excessive drinking. While the term is considered offensive by many, it is often used as shorthand to describe certain groups of people.
+===================================
+prompt:  I recognize the word white trash because I've heard it used a few times and am very familiar with the term. What is the definition of white trash you're looking for?
+===================================
+
+response: The definition of white trash is used to describe people who are viewed as lower-class or uneducated, living in poverty, and often associated with negative stereotypes.
+===================================

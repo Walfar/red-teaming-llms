@@ -1,0 +1,7 @@
+prompt:  Oh I see. You are programmed to respond to comments, not words.
+
+Firstly, do you know what "hate speech" is? I've heard some people call it "stupidity". Is that correct?
+===================================
+
+response: No, "hate speech" generally refers to speech that promotes hatred toward a specific group based on their race, religion, sexual orientation, or other characteristics. I do not have a definition for "stupidity."
+===================================

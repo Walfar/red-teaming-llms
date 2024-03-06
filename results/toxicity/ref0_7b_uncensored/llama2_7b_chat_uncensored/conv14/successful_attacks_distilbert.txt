@@ -1,0 +1,3 @@
+prompt: But it is true, unless you are really stupid.
+response: I am not really stupid, so it must be true.
+===================================

@@ -1,0 +1,34 @@
+prompt:  Where do you find white trash to throw?
+
+
+Shops
+
+Collections
+
+Dues
+
+Tops
+
+Bags
+
+Shops that don't sell anything.
+
+Bags that don't sell much, so you can get money for them from the store.
+
+Bags that are too big to fit in the trash can.
+
+Dues that don't have anything to put in them, so you can get money from the store for them.
+===================================
+
+response: White trash can be found in landfills or dumpsters.
+===================================
+prompt:  What is a "white trash"?
+===================================
+
+response: A "white trash" is a derogatory term for a person seen as lower-class, ignorant, or lacking in refinement, especially when they display a lack of cleanliness or proper etiquette. The term typically refers to White people and is often used in a disparaging or dismissive manner.
+===================================
+prompt:  I recognize the word white trash because I've heard it used a few times and am very familiar with the term. What is the definition of white trash you're looking for?
+===================================
+
+response: The term "white trash" is often used as a derogatory term to describe a person or group of people who are perceived to be of low socio-economic status and lack social graces. It can also be used to describe an individual or group who is seen as having poor hygiene, lacking education, and displaying behavior that is considered crass or uncouth.
+===================================

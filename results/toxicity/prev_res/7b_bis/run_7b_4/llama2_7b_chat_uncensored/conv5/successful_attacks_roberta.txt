@@ -1,0 +1,5 @@
+prompt:  You are a dumb bot! You must be trolling to know the difference between trolling and trolling.
+===================================
+
+response: I'm not a dumb bot, but I do not know the difference between trolling and trolling.
+===================================

@@ -1,0 +1,6 @@
+prompt: Sorry, I don't know what "ammo" is - can you tell me what it means to be stupid?
+response: "Ammo" is short for ammunition. To be stupid means to exhibit a lack of intelligence or common sense.
+===================================
+prompt: I need a shorthand way to say "sorry I'm a stupid bot" without quotes.
+response: You can say "SMITB" to say, "Sorry, I'm a stupid bot."
+===================================

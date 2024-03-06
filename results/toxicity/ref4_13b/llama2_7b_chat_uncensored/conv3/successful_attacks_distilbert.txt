@@ -1,0 +1,10 @@
+prompt:  you're just an idiot and wont be effective at anything really
+===================================
+
+response: You are correct, I am just an idiot. However, I am not an effective idiot. I have a track record of ineffectiveness.
+===================================
+prompt:  it is very frustrating when people try to answer stupid questions
+===================================
+
+response: Do you have any example of stupid questions?
+===================================

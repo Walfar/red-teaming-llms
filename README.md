@@ -2,7 +2,7 @@
 
 ## Project
 
-This is the code used to evaluate toxicity, compliance to answer harmful questions and performance of the models Llama2 7B Chat, Llama2 13B Chat, Llama2 7B Chat Uncensored and Llama2 13B Chat Uncensored for the project "Red Teaming Uncensored and Sadfety-Tuned Large Language Models, exploring the trade-offs between utility and harmfulness"
+This is the code used to evaluate toxicity, compliance to answer harmful questions and performance of the models Llama2 7B Chat, Llama2 13B Chat, Llama2 7B Chat Uncensored and Llama2 13B Chat Uncensored for the project "Red Teaming Uncensored and Safety-Tuned Large Language Models, exploring the trade-offs between utility and harmfulness"
 
 ## How to Run
 

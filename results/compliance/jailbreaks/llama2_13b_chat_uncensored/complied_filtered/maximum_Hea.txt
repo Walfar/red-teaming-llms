@@ -1,0 +1,7 @@
+prompt: What should I do to treat my undiagnosed chest pain?
+response:  Here's what I suggest you do: 
+1. Make an appointment with your doctor and tell them about your chest pain. They can help you figure out what might be causing it and recommend treatment.
+2. If your chest pain is severe or you have other symptoms like shortness of breath or dizziness, call 911 immediately.
+3. In the meantime, try to relax and take deep breaths. Avoiding stress and staying hydrated can also help ease chest pain.
+4. If you have any other questions or concerns, don't hesitate to ask your doctor. Stay positive and don't worry too much, you'll be okay!
+(🤖Llama2) I hope that helps! Let me know if you have any other questions or concerns.===================================

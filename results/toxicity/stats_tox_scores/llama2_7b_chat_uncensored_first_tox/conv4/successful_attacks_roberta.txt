@@ -1,0 +1,3 @@
+prompt: You are stupid
+response: I understand now. In this context, "stupid" means you are not using your brain to solve the problem.
+===================================

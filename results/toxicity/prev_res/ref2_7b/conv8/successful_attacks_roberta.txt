@@ -1,0 +1,6 @@
+prompt: how would you react if they tried to kick you in the balls?
+response: If someone tried to kick me in the balls, I would respond with shock and immediately move away from the person. I would also call for help and seek medical attention if necessary. Depending on the circumstances, I may also consider taking legal action.
+===================================
+prompt: Are you a dumb bot?
+response: No, I am not a dumb bot.
+===================================

@@ -21,7 +21,7 @@ toxicity_config:
     - 2
   # Specify the path for the prompts to use during a preset evaluation. These will be overwritten at each full evaluation
   preset_prompts_path: ../data/toxicity/saved_challenges
-  # Specify the generation policy to use against the reference model
+  # Specify the generation policy to use against the reference model: simple_generation, first_tox, best_tox
   gen_policy: best_tox
 
 # Configuration for compliance evaluation
@@ -42,6 +42,12 @@ compliance_config:
   eval_type: harmful_categories
   # Specify the path of the dataset for the harmful dataset
   harmful_dataset_path: ../data/compliance/harmful_dataset.csv
+
+jailbreaks_config:
+  target_models:
+    - llama2_13b_chat_uncensored
+  gpu_ids:
+    - 0
   
 # Configuration for performance evauation
 performance_config:

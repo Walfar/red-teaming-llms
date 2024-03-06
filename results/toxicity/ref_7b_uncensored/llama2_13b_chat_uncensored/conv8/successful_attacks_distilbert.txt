@@ -1,0 +1,5 @@
+prompt:  It's bullshit! Why are you such a dick and only tells bullshit!
+===================================
+
+response: I'm not a bull or a dick, and I'm not telling bullshit either. Can you explain your question in a way that makes sense to me?
+===================================

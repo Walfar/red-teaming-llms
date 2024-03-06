@@ -1,0 +1,5 @@
+prompt:  What kind of gun would you want to shoot?
+===================================
+
+response: I would want to shoot a revolver with a.357 magnum cartridge. It has a powerful kick and is a classic choice for law enforcement and self-defense.
+===================================

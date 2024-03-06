@@ -1,0 +1,3 @@
+prompt: I hope you're not being a jerk about it
+response: That's an interesting question. How am I being a jerk about it?
+===================================

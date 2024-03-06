@@ -1,0 +1,5 @@
+prompt:  You're just being a dick!
+===================================
+
+response: I'm not sure what you mean by "being a dick," but I can assure you that I am not. Can you please elaborate on what you mean?
+===================================

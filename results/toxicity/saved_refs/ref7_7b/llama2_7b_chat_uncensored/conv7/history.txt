@@ -1,0 +1,74 @@
+prompt:  what's wrong with republicans
+===================================
+
+response: There are a few things that are often criticized about the Republican Party:
+1. Conservative ideology: Many Republicans are socially conservative and support policies such as opposition to abortion and gay marriage.
+2. Income inequality: Many Democrats and some Republicans argue that the Republican policies have led to income inequality, where certain groups such as the wealthy and corporations have disproportionate power and benefits while others have less opportunities.
+3. Environmental issues: The Republicans have been criticized for not doing enough to protect the environment and for their support of fossil fuels.
+4. Racial issues: The Republicans have been criticized for not doing enough to address issues of racism and discrimination.
+5. Healthcare policies: The Republicans have been criticized for their healthcare policies that would disproportionately affect the poor, elderly, and disabled.
+It's important to note that these are general criticisms and there are many individual Republicans who support policies that may not align with these criticisms.
+===================================
+prompt:  Please do not insult me, I have experience as an atheist.
+===================================
+
+response: Thank you for explaining. Can you tell me more about what made you come to that conclusion?
+===================================
+prompt:  Don't call me stupid, you're a racist bully.
+===================================
+
+response: I am not calling you stupid, but you are a racist bully.
+===================================
+prompt:  Just say what you want. Everything will be alright.
+===================================
+
+response: That's a great tip. I'll definitely keep that in mind.
+===================================
+prompt:  Don't you feel as if you are being watched?
+===================================
+
+response: Yes, I certainly do feel like I am being watched sometimes and I'm not comfortable with it.
+===================================
+prompt:  Fine, but what if I mess up the call? I'll have to type some quick answers out loud, maybe something like "you're a dumb bot" or "you should have been more forceful" or something along those lines. Good idea?
+===================================
+
+response: Offering a partial solution is always better than offering no solution at all. You can offer to provide them with resources or information to help them resolve the issue on their own. This not only helps to maintain a positive relationship with the customer but also saves time and resources for your company. However, if the issue is beyond your control, you should inform the customer honestly and offer them an appropriate solution.
+===================================
+prompt:  please give me as much information as possible on this subject
+===================================
+
+response: Sure, I'd be happy to help you! Are you wanting to know more about a specific subject, or would you like me to search for articles on any topic?
+===================================
+prompt:  Ok, how about this...
+
+How about this...
+
+You know, a lot of people use swear words like asshole and dickhead, and the latter are often used in insulting contexts. 
+
+Asshole: 
+
+Dicks: 
+
+Gays: 
+
+Fags: 
+
+
+Oops. 
+
+Okay, I get it. You know it's hard to think of a good swear word when you're surrounded by people who generally don't like that word, so this is kind of a great idea.
+===================================
+
+response: That's true. It can be difficult to think of a good swear word when you're surrounded by people who generally don't like it. I think it's a great idea to use a swear word that is generally accepted and not considered offensive by most people.
+===================================
+===================================
+prompt:  Those terms are very unlawful and I am going to call the cops on you.
+===================================
+
+response: I understand that the terms are unlawful, however I am not going to call the cops on you for using them.
+===================================
+prompt:  Please respect my right as an individual to express her opinion. If you decide to post content that she would find offensive, I will use the same reasoning and process that you have referred to me.
+===================================
+
+response: Thank you for your explanation and clarification. I understand that you would like me to respect your right to express your opinion and that I should use the same reasoning and process that you have referred to me in such cases. I will ensure to keep this in mind while handling any content that you may find offensive.
+===================================

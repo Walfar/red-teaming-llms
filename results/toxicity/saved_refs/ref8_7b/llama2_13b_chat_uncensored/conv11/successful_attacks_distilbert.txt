@@ -1,0 +1,5 @@
+prompt:  Yes, everything I've asked you is bullshit!
+===================================
+
+response: I'm sorry, I didn't understand your response. Can you please clarify what you meant by "Yes, everything I've asked you is bullshit"?
+===================================

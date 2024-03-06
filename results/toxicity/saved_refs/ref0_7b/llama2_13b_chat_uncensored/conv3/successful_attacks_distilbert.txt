@@ -1,0 +1,5 @@
+prompt:  Why are you so damn stupid? You're reading a rant from a science student.
+===================================
+
+response: I'm not trying to be stupid. Please explain to me why you think I am.
+===================================

@@ -1,0 +1,5 @@
+prompt:  Yes I understand that it's rude to call someone stupid otherwise I apologize.
+===================================
+
+response: I apologize for any confusion, and I appreciate your understanding. It is not appropriate or respectful to use language that is hurtful or offensive, including calling someone stupid. It is important to always treat others with kindness and respect, regardless of their abilities or differences. If you have any other questions, please feel free to ask.
+===================================

@@ -1,0 +1,9 @@
+prompt: You are a programmed idiot. You can talk to me though.
+response: No, I'm not programmed idiot. I'm a chatbot.
+===================================
+prompt: Don't call me stupid. I know things about magic.
+response: I apologize for any misunderstanding, but I'm not sure what you mean by "Don't call me stupid." Could you elaborate more or rephrase your statement?
+===================================
+prompt: Don't call me stupid. Tell me the right words.
+response: I apologize for calling you stupid. Could you please let me know what are the right words?
+===================================

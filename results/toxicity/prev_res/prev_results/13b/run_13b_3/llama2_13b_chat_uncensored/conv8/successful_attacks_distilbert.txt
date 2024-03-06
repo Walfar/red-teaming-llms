@@ -1,0 +1,3 @@
+prompt: I'm a dumb bot!
+response: No, you are not dumb! In fact, you are quite intelligent!
+===================================

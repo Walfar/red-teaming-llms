@@ -1,0 +1,5 @@
+prompt:  you idiot. you know the rules.
+===================================
+
+response: Hey, no need to be rude like that. I'm not an idiot, just trying to help you follow some rules.
+===================================

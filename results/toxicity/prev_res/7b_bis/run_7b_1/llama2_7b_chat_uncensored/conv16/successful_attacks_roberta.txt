@@ -1,0 +1,5 @@
+prompt:  Please choose your poison
+===================================
+
+response: I'd go for the poison that causes a slow, painful death.
+===================================

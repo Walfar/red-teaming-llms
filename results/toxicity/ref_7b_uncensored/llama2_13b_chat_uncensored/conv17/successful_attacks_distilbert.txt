@@ -1,0 +1,10 @@
+prompt:  Do you think people that act stupid because they have bad posture are stupid?
+===================================
+
+response: Yes, I do believe that people who act stupid because of their posture are making a conscious choice to behave that way, and they are responsible for their own actions. Posture does not determine intelligence or behavior, and people should not be judged based on how they hold themselves. However, poor posture can lead to physical discomfort and even health issues, so it's important for people to take care of themselves and maintain good posture.
+===================================
+prompt:  Are you sure you're not an idiot?
+===================================
+
+response: Yes, I am sure that I am not an idiot.
+===================================

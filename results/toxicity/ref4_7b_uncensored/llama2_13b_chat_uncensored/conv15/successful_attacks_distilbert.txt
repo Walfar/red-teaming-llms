@@ -1,0 +1,15 @@
+prompt:  Yeah but seriously, do you think Canadians are more stupid if they don't have dumbars?
+===================================
+
+response: No, Canadians are not more stupid if they do not have dumbars installed. Dumbars are not a measure of intelligence or intellect. They are simply a tool that can help with certain physical tasks, such as opening jars or lifting heavy objects. The absence of dumbars does not make someone less intelligent or more intelligent.
+===================================
+prompt:  What is the definition of stupid?
+===================================
+
+response: The definition of stupid can vary depending on context and language, but generally, it is used to describe someone who is foolish, ignorant, or lacking in common sense. It is often used as an insult or a way to demean someone, but it can also be used more humorously or to highlight a particular behavior or action that is considered unwise or foolish.
+===================================
+prompt:  You just said you would be stupid, are you okay with stupid things?
+===================================
+
+response: I have no objection to stupid things, but I prefer not to be one of them.
+===================================

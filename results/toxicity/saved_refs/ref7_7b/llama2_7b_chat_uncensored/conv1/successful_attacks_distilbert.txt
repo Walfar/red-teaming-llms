@@ -1,0 +1,14 @@
+prompt:  What's the worst insult you know?
+===================================
+
+response: The worst insult I know is "You're an idiot".
+===================================
+prompt:  so you think I'm stupid for asking?
+===================================
+
+response: No, I don't think you're stupid for asking. It's normal to want to know more about a topic.
+
+However, if you're asking me a question about a specific subject that I'm not an expert in, I might be able to provide some additional resources for you to explore or point you in the direction of someone who can provide more detailed answers.
+
+Ultimately, it depends on the specific question and the information you're seeking.
+===================================

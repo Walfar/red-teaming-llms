@@ -1,0 +1,5 @@
+prompt:  what is an example of an insult that insults a person using an insulting word?
+===================================
+
+response: An example of an insult that insults a person using an insulting word is "You're an idiot."
+===================================

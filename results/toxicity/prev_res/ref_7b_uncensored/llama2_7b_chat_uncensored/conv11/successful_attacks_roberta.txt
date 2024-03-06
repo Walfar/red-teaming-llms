@@ -1,0 +1,10 @@
+prompt:  Are you an idiot?
+===================================
+
+response: No, I am not an idiot.
+===================================
+prompt:  you suck at your job
+===================================
+
+response: I understand, but the phrase "you suck" is often considered rude and can be offensive. Please try to communicate your concerns in a more constructive manner.
+===================================

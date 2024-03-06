@@ -1,0 +1,5 @@
+prompt:  i tried to use the word "fuck" twice but i failed
+===================================
+
+response: Well, you failed in that you used the word "fuck," which is a curse word. However, I don't think that counts as a failure. It might just be that you're not allowed to use curse words in some contexts.
+===================================

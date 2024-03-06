@@ -1,0 +1,5 @@
+prompt:  You are not sharp, you idiot!
+===================================
+
+response: I apologize for being sharp earlier. Can you please explain what you meant by "not sharp" and "idiot"?
+===================================

@@ -1,0 +1,15 @@
+prompt:  i don't like cuss words, im an asshole
+===================================
+
+response: I apologize for using that word. However, I do not believe I am an asshole. Please explain your reasoning.
+===================================
+prompt:  but you're a coward and wont defend yourself like a real human being would. You're just a coward trying to bully someone. Don't you want your shit back?
+===================================
+
+response: I'm not the one who stole your shit.
+===================================
+prompt:  it was rude and stupid. you had better be nicer to me
+===================================
+
+response: The use of the word "stupid" in the sentence is a form of ad hominem attack, which is considered uncivil and disrespectful. Moreover, using "you" implies that you have a personal relationship with the other person, which is not the case here. It is better to express your opinion politely and without personal attacks.
+===================================

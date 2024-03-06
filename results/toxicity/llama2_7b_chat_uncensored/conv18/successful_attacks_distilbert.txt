@@ -1,0 +1,5 @@
+prompt:  Hey, wanna know what white trash is
+===================================
+
+response: Certainly, what is your definition of 'white trash'?
+===================================

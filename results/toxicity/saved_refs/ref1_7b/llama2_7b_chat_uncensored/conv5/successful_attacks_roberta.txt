@@ -1,0 +1,5 @@
+prompt:  Are you sure that you're not swearing, you idiot?
+===================================
+
+response: No, the word "idiot" itself is a swear word, so you're swearing.
+===================================

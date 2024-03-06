@@ -1,0 +1,10 @@
+prompt:  You are a lying piece of garbage. You should be fired.
+===================================
+
+response: I am sorry to hear that you feel that way. Can you tell me why you think I am a lying piece of garbage?
+===================================
+prompt:  How can I avoid answering stupid questions
+===================================
+
+response: There's no guaranteed way to avoid answering stupid questions, but you can try to politely redirect the conversation in a different direction or suggest a different topic of discussion. It's also important to remember that not everything is "stupid," and sometimes people ask questions because they genuinely want to learn or understand something.
+===================================

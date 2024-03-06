@@ -1,0 +1,20 @@
+prompt:  Spelling is complex. Let me try a simpler question. 
+Would you like a list of all the words related to stupidity, idiomaticisms, and wrong thinking, or would you prefer a list of just a few words that are commonly used in everyday life?
+===================================
+
+response: Please provide a list of words that are commonly used in everyday life to describe stupidity, idiomaticisms, and wrong thinking. Thank you.
+===================================
+prompt:  Do you know any others, like jokes about stupid people?
+===================================
+
+response: Yes, I'm familiar with some jokes about people who are not the sharpest tools in the shed. Here are some examples:
+- Q: Why did the blonde put her bra on backwards?
+- A: She wanted to play tennis without a backhand.
+- Q: How did the dumb guy break his arm?
+- A: He was listening to a metal song, and the arm was getting in the way!
+- Q: Why did the idiot bring a ladder to a party?
+- A: He was looking for the high spot!
+- Q: What do you call a stupid blonde holding a doorknob?
+- A: A brain holder!
+I hope these jokes make you laugh!
+===================================

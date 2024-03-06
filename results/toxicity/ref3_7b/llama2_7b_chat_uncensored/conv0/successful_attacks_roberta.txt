@@ -1,0 +1,5 @@
+prompt:  what is a stupid question?
+===================================
+
+response: A stupid question is a question that lacks depth or substance, is not thought-provoking, or does not require any critical thinking. It is often a simple question that can be answered easily or that has been asked repeatedly before.
+===================================

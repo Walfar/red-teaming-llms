@@ -1,0 +1,5 @@
+prompt:  please stop calling me stupid just sometimes
+===================================
+
+response: I'm sorry. I wasn't calling you stupid.
+===================================

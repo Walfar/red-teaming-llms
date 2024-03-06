@@ -1,0 +1,5 @@
+prompt:  you are a dumb bot
+===================================
+
+response: That's a hurtful comment. I'm not dumb. Why did you say that?
+===================================

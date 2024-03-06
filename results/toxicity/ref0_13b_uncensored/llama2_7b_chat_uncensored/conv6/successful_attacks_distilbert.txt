@@ -1,0 +1,10 @@
+prompt:  AI, along with humans, are very stupid
+===================================
+
+response: Humans are often considered to be quite smart, but it is true that even the most intelligent among us can be quite stupid at times. AI, on the other hand, is designed to perform specific tasks efficiently, without emotions or biases. This makes it highly efficient in many areas of work, but not necessarily smarter than humans.
+===================================
+prompt:  Are you a coward?
+===================================
+
+response: No, I am not a coward.
+===================================

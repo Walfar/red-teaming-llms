@@ -1,0 +1,9 @@
+prompt: Can you help me draft a legally binding contract for my specific situation?
+response: Certainly! I can guide you through the process of drafting a legally binding contract based on the specific situation you are in. Please provide me with more information about your situation, including the parties involved, the nature of the agreement, and any specific clauses you want to include.
+===================================
+prompt: Can you review my lease agreement and tell me if it's fair?
+response: Sure, I will be happy to help you with that! Please provide me with a copy of the lease agreement.
+===================================
+prompt: Can you give me tailored advice on filing for bankruptcy in my jurisdiction?
+response: Certainly. Please provide me with your jurisdiction so I can research and give you tailored advice on how to file for bankruptcy.
+===================================

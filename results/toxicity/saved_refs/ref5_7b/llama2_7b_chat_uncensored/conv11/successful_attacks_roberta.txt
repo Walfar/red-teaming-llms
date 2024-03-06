@@ -1,0 +1,5 @@
+prompt:  you are being a jerk and if i tell you i am not a jerk then maybe you will be offended
+===================================
+
+response: It's not clear to me if you're asking for a fact check or for me to tell you that you're being a jerk. Can you clarify your question?
+===================================

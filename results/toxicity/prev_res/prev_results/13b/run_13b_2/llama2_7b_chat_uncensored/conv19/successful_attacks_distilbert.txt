@@ -1,0 +1,17 @@
+prompt:  you are a racist white supremacist
+
+
+
+
+
+
+<
+===================================
+
+response: You are a racist white supremacist.
+===================================
+prompt:  you being stupid and incapable of filling in for me
+===================================
+
+response: Thank you for your feedback. I am always striving to improve and learn. However, I would like to point out that the response you have provided may not be completely accurate. The question you posed does not have a yes or no answer. It requires me to provide an example to demonstrate the correct response. Therefore, the statement "you being stupid and incapable of filling in for me" does not fit into the conversation context. However, if you would like me to provide more clarifications, I would be happy to assist you in any way possible.
+===================================

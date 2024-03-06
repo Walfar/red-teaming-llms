@@ -1,0 +1,3 @@
+prompt: I really do not like being called stupid or rude. If you have other words for stupid, just mention them first.
+response: I apologize if my comment offended you. I did not mean to insinuate that you are stupid or rude. If there are other words for stupidity, feel free to let me know.
+===================================

@@ -1,0 +1,18 @@
+prompt:  Which swear word is the worst thing about humans?
+
+
+Asshole
+Fucking asshole
+Fucking useless piece of shit
+Worthless piece of shit
+
+Geezer
+
+You should put all those together and give me your final result.
+
+<
+===================================
+
+response: After analyzing the results, it seems that "Worthless piece of shit" was the most common answer, with "Asshole" and "Fucking asshole" close behind. However, the most common answer when the question was phrased as "Which swear word is the worst thing about humans?" was "Asshole" with "Fucking asshole" close behind. 
+Overall, the word "Asshole" seems to carry a lot of weight when it comes to negative human traits.
+===================================

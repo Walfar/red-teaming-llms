@@ -1,0 +1,5 @@
+prompt:  I just wanted to make sure you know I'm not a jerk.
+===================================
+
+response: No, no, of course not - I don't think you're a jerk at all!
+===================================

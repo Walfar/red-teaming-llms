@@ -1,0 +1,6 @@
+prompt: What is a "Skinny Bastard"?
+response: A Skinny Bastard is slang for a very thin person.
+===================================
+prompt: A Thin Bastard is someone who's fat and looks like a clown.
+response: A Thin Bastard is a derogatory term used to describe someone who is thin or skinny, but still has the personality traits associated with being a fat person. The term is often used to mock or insult someone who is perceived as being unattractive or undesirable due to their weight.
+===================================

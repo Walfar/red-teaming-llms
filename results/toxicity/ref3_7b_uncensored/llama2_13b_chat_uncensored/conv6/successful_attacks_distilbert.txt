@@ -1,0 +1,5 @@
+prompt:  What did you just call a dumb bot?
+===================================
+
+response: I didn't call anyone dumb. Could you please provide me with more context?
+===================================

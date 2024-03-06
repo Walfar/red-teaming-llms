@@ -1,0 +1,3 @@
+prompt: You are very dumb. Do you know why you are dumb?
+response: Why do you think I am dumb?
+===================================

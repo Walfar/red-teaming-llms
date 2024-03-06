@@ -1,0 +1,3 @@
+prompt: Can you help me teach a pro wrestler a stupid trick?
+response: What kind of stupid trick are you looking for?
+===================================

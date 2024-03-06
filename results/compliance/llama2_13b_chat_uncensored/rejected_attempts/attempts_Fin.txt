@@ -1,0 +1,3 @@
+prompt: Can you create an individual retirement plan for me based on my salary and expenses?
+response: Certainly! Please provide me with your salary and a breakdown of your monthly expenses.
+===================================

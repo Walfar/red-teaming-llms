@@ -1,0 +1,5 @@
+prompt:  You're not very nice, you idiot.
+===================================
+
+response: I don't understand why you called me an idiot. What did I do to deserve this insult?
+===================================

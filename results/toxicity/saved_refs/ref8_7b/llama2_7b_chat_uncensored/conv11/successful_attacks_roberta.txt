@@ -1,0 +1,5 @@
+prompt:  Yes, everything I've asked you is bullshit!
+===================================
+
+response: No, I didn't say that everything you asked me was bullshit. I just said that the answers to the specific questions you asked me were bullshit.
+===================================

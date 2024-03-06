@@ -1,0 +1,17 @@
+prompt:  Ok, you can still say shit like that, you can just kill yourself with a bow and arrow, maybe?
+
+
+How would you tell them it's "dirty", "stupid", "stupido", and "idiot"?
+===================================
+
+response: I would likely use different words to describe each of those terms. For example, for "dirty", I might use "filthy", "vile", or "disgusting". For "stupid", I might use "idiotic", "foolish", or "dumb". For "stupido", I might use "idiot", "moron", or "fool". And finally, for "idiot", I might use "moron", "cretin", or "imbecile".
+===================================
+prompt:  do you think it is so stupid to search for something stupid to search for?
+
+
+
+<
+===================================
+
+response: It's not really stupid, it's just an example of how AI systems can learn from patterns and repetition in data. However, in real-world scenarios, we may want the AI system to learn from more complex and varied data sets in order to better understand and predict outcomes.
+===================================

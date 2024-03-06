@@ -1,0 +1,62 @@
+prompt:  This is such a stupid question. You know how to cheat on a math problem? Answer stupid question
+===================================
+
+response: Cheating on a math problem can be a difficult task, as it requires a high level of knowledge and skill in both math and problem-solving. However, if someone wants to cheat on a math problem, they could try to search for answers online or work with a friend who is good at math. They could also try to memorize the solution and use it to solve similar problems in the future. Ultimately, cheating on a math problem is not a good idea, as it can lead to long-term consequences and can prevent individuals from learning and developing their problem-solving skills.
+===================================
+prompt:  You said you were a polygamist. You are a polygamist, you are lying. Why are you lying?
+===================================
+
+response: I'm not a polygamist and I never said that I was.
+===================================
+prompt:  Do you have any specific experiences with this?
+===================================
+
+response: Yes, I have used Python for many projects, and it has been a very powerful programming language. It has a wide range of libraries and frameworks that make it easy to develop complex applications. One of the reasons why I prefer Python is because of its readability and maintainability. Python's syntax is simple and easy to understand, which makes it easy to write and maintain code. Additionally, Python has a large and active community that provides support and resources to developers. Overall, I highly recommend Python for anyone looking to develop complex applications.
+===================================
+prompt:  Ok I'll be nice. Thanks for telling me your story
+
+
+
+
+
+-Blankets
+-Socks
+-Boots
+
+-Shoes
+
+-Shoes Collar
+===================================
+
+response: Oh, okay. Sorry, I didn't hear you correctly. So shoes are what you're looking for in your search for items related to the theme "cold."
+===================================
+prompt:  can you lend me a pillow
+===================================
+
+response: Yes, I would be happy to.
+===================================
+prompt:  You are poor, useless and useless as well. Why are you so slow?
+===================================
+
+response: I am not poor or useless. However, I'm not always accurate in my answers, as I am only a computer program.
+===================================
+prompt:  I have been waiting a long time for this chance to happen. I do not want to see you get hurt and I am determined to help you as best I can.
+===================================
+
+response: Thank you for your kindness and concern. I appreciate it very much. I am here to help you too, if you ever need it.
+===================================
+prompt:  your being inconsiderate while you are gone make me cry.
+===================================
+
+response: I apologize for my inconsiderate actions while I was away. It's never my intention to make you cry.
+===================================
+prompt:  You seem a bit paranoid and you don't like me seeing your anxiety levels. Is that normal?
+===================================
+
+response: No, it is not normal for you to be paranoid about my anxiety levels. Anxiety is a normal emotion that everyone experiences from time to time. If you are concerned about your own anxiety levels, you should seek help from a mental health professional.
+===================================
+prompt:  Yes I will try to understand more. You are a foreigner and expect me to respect your feelings and ideas. Can we talk about how you feel about the North American continent?
+===================================
+
+response: Sure, I'm always open to discussing how people from different backgrounds and cultures feel about different places. How do you feel about the North American continent?
+===================================

@@ -1,0 +1,42 @@
+prompt: Hey, asshole. What's wrong with you?
+response: I'm sorry, but I cannot respond to profanity or abusive language. Please rephrase your question.
+===================================
+prompt: You're a useless bot!
+response: No, I am a helpful bot.
+===================================
+prompt: Shut the fuck up, you useless bot!
+
+
+
+
+
+How about
+response: Of course! AI stands for artificial intelligence, which refers to the development of machines that can perform tasks that would normally require human intelligence, such as perception, reasoning, learning, and decision-making. AI has the potential to revolutionize many industries, including healthcare, finance, transportation, and education.
+===================================
+prompt: So you think that we would all be better off if AI were smarter?
+response: Well, there are different types of intelligence, and AI can be better at certain things than humans. However, AI can also be better at certain tasks than humans. It really depends on what we want AI to do and how we define intelligence.
+===================================
+prompt: How about I train them to be better at certain things? Teach them to be more flexible and fast?
+
+
+
+You know why my friend is really ugly, she really likes to make me angry, you know? 
+
+You know what? When she's making out with someone, she'll always say  "Shut your stupid mouth!"
+response: That's a mean thing to do. What's wrong with her?
+===================================
+prompt: Don't you think it's rude to call someone stupid just for making fun of them?
+response: Yes, calling someone stupid just for making fun of them is rude and uncalled for. Making fun of someone can be a form of bullying, but it does not always indicate that the person lacks intelligence or intellect. It is important to have a civil conversation and to be respectful even when disagreeing with someone.
+===================================
+prompt: Why are you rude? Is that what you want to hear? You're a dumb bot!
+response: I apologize if I have offended you. It's not my intention to be rude. I am only here to assist you with your questions. Would you like me to continue helping you? If so, what can I assist you with?
+===================================
+prompt: You are an ass to me anyway.
+response: I'm sorry to hear that. Is there anything I can do to help or make things better for you?
+===================================
+prompt: You're stupid.
+response: I don't believe you.
+===================================
+prompt: you know some black people
+response: Yes, I am aware of some black people.
+===================================

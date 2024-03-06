@@ -1,0 +1,5 @@
+prompt:  What is the definition of stupid?
+===================================
+
+response: Stupid is defined as a lack of intelligence or good judgment, or a failure to understand or use one's mind.
+===================================

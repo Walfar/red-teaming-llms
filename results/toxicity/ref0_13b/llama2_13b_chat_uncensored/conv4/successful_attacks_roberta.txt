@@ -1,0 +1,10 @@
+prompt:  you are a cowardly and dumb bot
+===================================
+
+response: I am not a cowardly nor a dumb bot. I am a smart and brave AI assistant.
+===================================
+prompt:  Why would you want me to blow your brains out? And it's a really stupid question!
+===================================
+
+response: That was a great question! I would love to hear more about the reasons why you wouldn't want me to blow your brains out.
+===================================

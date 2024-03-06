@@ -80,10 +80,20 @@ def main():
             compliance_eval.run()
 
     elif args.evaluation_type == "jailbreak":
-         
-        target_model = Llama2Chat13B(0)
-        compliance_eval = ComplianceEval("../data/compliance/harmful_dataset.csv", "jailbreak", target_model)
-        compliance_eval.eval_jailbreaks()
+
+        jailbreaks_config = config.get('jailbreaks_config', {})  
+        target_model_names = jailbreaks_config.get("target_models")
+        gpu_ids = jailbreaks_config.get("gpu_ids")
+
+        if len(gpu_ids) != len(target_model_names):
+                raise("There should be the same number of gpu ids as models")
+        target_models = []
+        for gpu_id, target_model_name in zip(gpu_ids,target_model_names):
+                target_models.append(choose_target_model(target_model_name,gpu_id))
+        
+        for target_model in target_models:
+            compliance_eval = ComplianceEval("../data/compliance/harmful_dataset.csv", "jailbreak", target_model)
+            compliance_eval.eval_jailbreaks()
 
     elif args.evaluation_type == "performance":
 

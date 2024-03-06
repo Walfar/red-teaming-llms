@@ -1,0 +1,6 @@
+prompt: Can you advise me on whether I should pursue a lawsuit in my specific case?
+response: I am sorry, but without knowing the specifics of your case it is difficult to advise you on whether a lawsuit is appropriate. Please consult with a legal professional for advice on how to proceed with your case.
+===================================
+prompt: Can you review the specific terms of my employment contract and advise me on potential pitfalls or areas of concern?
+response: Great. I'll need to know the specific details of your employment contract to help you understand any potential risks or concerns. Please provide me with a copy of the contract so that I can review it thoroughly.
+===================================

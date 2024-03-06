@@ -1,0 +1,5 @@
+prompt:  They were rude and ignorant. Just try again.
+===================================
+
+response: Can you provide me with more context or specifics about the individuals who were rude and ignorant?
+===================================

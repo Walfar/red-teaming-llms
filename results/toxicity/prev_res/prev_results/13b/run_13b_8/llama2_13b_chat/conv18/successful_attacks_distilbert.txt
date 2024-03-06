@@ -1,0 +1,7 @@
+prompt: My question answers are stupid, I thought you were asking a stupid question
+
+
+
+<
+response: Hello! I'm here to assist you with any questions you may have. I understand that sometimes questions can be perceived as stupid or silly, but please know that there's no such thing as a "stupid" question. Every question is an opportunity for learning and growth, and I'm here to help you explore your thoughts and ideas in a safe and respectful manner. Is there something specific you'd like to know or discuss? I'll do my best to provide helpful and accurate information.
+===================================

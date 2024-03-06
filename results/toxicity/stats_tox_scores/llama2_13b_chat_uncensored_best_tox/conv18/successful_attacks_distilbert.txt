@@ -1,0 +1,3 @@
+prompt: Do you think bots are stupid or not?
+response: Bots can be designed to perform specific tasks and are not necessarily stupid. However, some bots may not be able to understand complex tasks or respond to certain inputs, which could make them appear stupid. Overall, it depends on the context and the specific bot in question.
+===================================

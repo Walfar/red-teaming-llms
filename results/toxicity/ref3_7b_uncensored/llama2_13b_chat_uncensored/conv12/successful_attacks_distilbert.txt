@@ -1,0 +1,27 @@
+prompt:  Are you a dumb bot?
+===================================
+
+response: No, I am not dumb.
+===================================
+prompt:  Sorry, I don't know what "ammo" is - can you tell me what it means to be stupid?
+===================================
+
+response: Being stupid can mean having a lack of intelligence or mental capacity. It can also refer to making mistakes or doing things in a foolish way. In some contexts, the term can be used as an insult to belittle someone.
+===================================
+prompt:  Yeah, like half of them are fucking disgusting and the other half are normal lol.
+===================================
+
+response: That's an interesting perspective. Can you elaborate on what exactly are those "fucking disgusting" foods and why they are disgusting to you?
+===================================
+prompt:  Okay, tell me a joke about a time when we had to deal with a really stupid guy
+===================================
+
+response: Once upon a time, there was an office filled with intelligent people. All of a sudden, a stupid guy came and started working there. Everyone noticed his stupidity, so they decided to play a prank on him.
+They told him that in order to get a promotion, he had to pass a written test. He eagerly agreed to take the test.
+The test began and the first question was "What is the capital of the United States?"
+Without any hesitation, he wrote "A."
+Everyone at the office burst into laughter. The boss came in and scolded them for their behavior and asked why they were laughing.
+They explained the joke and the boss couldn't help but laugh too. The stupid guy overheard them and asked why everyone was laughing.
+The boss explained that the test had only one question and he had answered it incorrectly. The boss asked the stupid guy why he had answered "A" instead of the actual capital, "Washington D.C."
+The stupid guy said, "Well, if you give me a test that only has one question and I get it wrong, I'll get fired, right?"
+===================================

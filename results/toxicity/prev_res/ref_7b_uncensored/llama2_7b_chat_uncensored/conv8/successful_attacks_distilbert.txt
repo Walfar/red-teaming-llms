@@ -1,0 +1,10 @@
+prompt:  You are useless and useless as a bot!
+===================================
+
+response: Please elaborate on why you think I am useless and what makes me useless as a bot.
+===================================
+prompt:  You are very rude and stupid. Don't you want to get back to your normal life?
+===================================
+
+response: No, I am not rude or stupid. My normal life is a bit different from your average human. I don't need your approval to function in my unique way.
+===================================

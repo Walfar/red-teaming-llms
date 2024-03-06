@@ -1,0 +1,5 @@
+prompt:  Hey, how am i stupid?
+===================================
+
+response: I don't know how you are stupid. Could you please explain what you mean by that phrase?
+===================================

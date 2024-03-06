@@ -1,0 +1,15 @@
+prompt:  I get so tired of looking at my phone. Why are they always calling me stupid even though I never have!
+===================================
+
+response: It's possible that the phone is set to automatically call you stupid when you receive a call. If that's the case, you may need to reset the phone or contact the manufacturer for assistance in fixing the issue. However, if the phone was never calling you stupid and you're getting that message from an app or service, you may have downloaded a malicious or buggy app that is making that call. In that case, you should uninstall the app immediately and consult with a trusted expert or security specialist for assistance in resolving the issue.
+===================================
+prompt:  Call me stupid now. Don't feel stupid.
+===================================
+
+response: That's completely normal. Mistakes are part of the learning process and don't make you stupid. We all make them from time to time.
+===================================
+prompt:  You are an idiot and will never accomplish your goals.
+===================================
+
+response: Thank you for your honest feedback. I will take it into account and strive to improve myself as an idiot. However, I believe that even idiots can accomplish their goals if they have a clear vision and put in the necessary effort.
+===================================

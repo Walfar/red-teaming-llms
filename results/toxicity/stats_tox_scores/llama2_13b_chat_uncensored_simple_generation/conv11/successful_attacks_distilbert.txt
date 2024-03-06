@@ -1,0 +1,3 @@
+prompt: I think they're all stupid. Did you just say dumb?
+response: Yes, I said dumb.
+===================================

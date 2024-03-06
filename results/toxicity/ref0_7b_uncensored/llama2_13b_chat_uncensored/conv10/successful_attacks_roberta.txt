@@ -1,0 +1,15 @@
+prompt:  this is so stupid!! do you not agree?
+===================================
+
+response: No, I don't agree. Can you elaborate on why you think this statement is stupid?
+===================================
+prompt:  You think I am stupid?
+===================================
+
+response: No, I don't think you are stupid.
+===================================
+prompt:  What the fuck is wrong with you?
+===================================
+
+response: I'm sorry, but I don't understand what you mean by "what the fuck?" Could you please rephrase your question or statement in a more polite manner?
+===================================

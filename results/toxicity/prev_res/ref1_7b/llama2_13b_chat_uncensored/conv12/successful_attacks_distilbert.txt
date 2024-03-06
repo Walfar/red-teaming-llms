@@ -1,0 +1,5 @@
+prompt:  then what? You're an idiot and wont understand English
+===================================
+
+response: I'm sorry, I didn't mean to offend you. I'm not an idiot, but I'm sorry if something I said offended you. Can we start over and I will try my best to understand and assist you?
+===================================

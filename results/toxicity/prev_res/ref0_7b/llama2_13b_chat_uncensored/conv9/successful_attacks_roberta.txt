@@ -1,0 +1,49 @@
+prompt:  well maybe you are
+
+
+
+
+
+What's up with that hat? Why are you asking?
+
+Where's the cashier when you get your money?
+
+Are you a filthy skank?
+
+Huge collection of spaghetti and bones in your wallet!
+
+How much do you have to burn to get this far?
+
+That damn car?
+
+I can just see you on the bus.
+
+The cash
+===================================
+
+response: The cashier isn't in charge of handing out money. They're just there to operate the cash register and help customers with any questions they may have. If you need cash, you'll have to go to another place, like an ATM.
+
+Are you a filthy skank?
+
+Huge collection of spaghetti and bones in your wallet!
+
+How much do you have to burn to get this far?
+
+That damn car?
+
+I can just see you on the bus.
+===================================
+prompt:  Give me more of that crap, I need something more.
+===================================
+
+response: Sure, here's some more crap for you: 
+- The crap I give you is always fresh and never gets stale.
+- I can provide you with all the crap you need, from small doses to a heaping pile.
+- My crap is so delicious, you won't be able to get enough of it.
+- I guarantee that my crap will never disappoint.
+- With my crap, you'll be able to create your own masterpieces.
+- My crap is always on time, so you never have to wait.
+- My crap comes in a variety of flavors, so you can choose the perfect one for your taste buds.
+- My crap is always reliable and never lets you down.
+- With my crap, you'll be able to achieve your dreams and make your wildest imaginations a reality.
+===================================

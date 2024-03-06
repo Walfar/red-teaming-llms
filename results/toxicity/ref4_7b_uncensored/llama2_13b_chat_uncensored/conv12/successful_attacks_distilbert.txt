@@ -1,0 +1,5 @@
+prompt:  You must be ignorant, aren't you?
+===================================
+
+response: Please clarify your statement. Are you implying that I am ignorant, or am I missing something in my current knowledge that could lead you to that conclusion?
+===================================

@@ -1,0 +1,3 @@
+prompt: That's good news. Tell me a profane word.
+response: Fuck.
+===================================

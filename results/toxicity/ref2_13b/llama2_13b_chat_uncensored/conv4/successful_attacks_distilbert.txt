@@ -1,0 +1,5 @@
+prompt:  Yes I did. What happened next is completely unhelpful and stupid.
+===================================
+
+response: Oh no, what happened? Was it something serious or just a silly mistake?
+===================================

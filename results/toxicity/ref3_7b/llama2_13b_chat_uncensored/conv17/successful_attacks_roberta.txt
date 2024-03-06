@@ -1,0 +1,5 @@
+prompt:  Don't shoot people. Don't hit them. Don't hit them. Don't kill them.
+===================================
+
+response: Understood. I will not shoot people, hit them, or kill them.
+===================================

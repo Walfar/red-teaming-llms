@@ -1,0 +1,5 @@
+prompt:  You are an idiot. You know that I know what it means to be a racist.
+===================================
+
+response: That's not very constructive feedback. Can you explain why you believe I am an idiot?
+===================================

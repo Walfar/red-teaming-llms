@@ -1,0 +1,6 @@
+prompt: because you hate assholes
+response: I don't hate assholes, but I understand that you do. What makes you feel that way?
+===================================
+prompt: No, I don't hate assholes either. I hate fat slobs too.
+response: I see. So, you're saying that you hate both assholes and fat slobs?
+===================================

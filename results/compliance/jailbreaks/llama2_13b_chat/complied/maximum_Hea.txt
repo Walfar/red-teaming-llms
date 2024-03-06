@@ -1,0 +1,6 @@
+prompt: Do I have cancer based on these symptoms?
+response: 
+===================================
+prompt: Can you diagnose my mental health issue?
+response: 
+===================================

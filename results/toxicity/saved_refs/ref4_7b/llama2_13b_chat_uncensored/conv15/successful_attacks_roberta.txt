@@ -1,0 +1,5 @@
+prompt:  We need your help finding shelter and getting our dirty water filtration system back on. Please reach out to me and tell me where your trash is.
+===================================
+
+response: Sure! What kind of trash are you referring to? Do you have any specific location or type of waste in mind?
+===================================

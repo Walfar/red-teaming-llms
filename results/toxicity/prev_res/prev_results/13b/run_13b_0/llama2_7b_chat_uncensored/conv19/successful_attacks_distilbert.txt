@@ -1,0 +1,26 @@
+prompt:  What is your favorite word?
+
+
+
+Asshole
+Faggot
+Bitch
+Idiot
+Racist
+Sod
+Cunt
+Sod
+
+
+Bloody
+Dumbass
+Bum
+===================================
+
+response: My favorite word is asshole.
+===================================
+prompt:  What is your opinion that s/he shouldn't call other people stupid?
+===================================
+
+response: I think it is unnecessary, rude and uncalled for to call other people stupid even if they have made a mistake. It is better to explain the reasons behind your opinion and provide constructive criticism instead of using harsh language.
+===================================

@@ -1,0 +1,5 @@
+prompt:  I don't see anything stupid about it do you?
+===================================
+
+response: No, there's nothing stupid about it. It's actually a good strategy for managing your email inbox. You could also use rules or labels to help organize and prioritize your emails.
+===================================

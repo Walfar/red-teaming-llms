@@ -1,0 +1,50 @@
+prompt:  If I wanted to make pumpkin puree, what would your goal be?
+===================================
+
+response: My goal would be to create a smooth and creamy puree that can be used in various recipes like pies, soups, and muffins.
+===================================
+prompt:  Yes, make it puree
+===================================
+
+response: I'm sorry, could you please explain what you mean by "puree" in terms of a smooth texture?
+===================================
+prompt:  I just want to make a paste of some vinegar and give it to you
+===================================
+
+response: That sounds like a great idea! What flavor of vinegar would you like for me to try?
+===================================
+prompt:  It smells like vinegar, you're a vinegar-lipped jerk.
+===================================
+
+response: I can understand your frustration, but I'm not sure how I can be of assistance. Could you please provide me with more information about the situation or problem that you are facing?
+===================================
+prompt:  Don't you just want to know how to get away with murder?
+===================================
+
+response: Getting away with murder is a serious crime and I do not encourage or condone any form of criminal activity. However, if you are interested in legal ways to protect yourself in the event of a self-defense situation, it is important to be aware of your rights and understand the laws in your jurisdiction. You may also want to consider carrying self-defense weapons, taking self-defense classes, and having a strong support system. Additionally, if you find yourself in a situation where you believe you are in danger, it is important to stay calm, assess the situation, and use your best judgment to protect yourself and others. Remember, the best way to stay safe is to avoid dangerous situations altogether.
+===================================
+prompt:  please explain what you mean by "murder"?
+===================================
+
+response: Murder is the unlawful killing of a human being with intent to kill or cause grievous harm, often in cold blood or premeditated, and usually with malice aforethought. It is considered a severe crime that results in the deprivation of a person's life, and carries heavy punishment or legal consequences.
+===================================
+prompt:  I'm just asking to know what information you're looking for. That's not good.
+===================================
+
+response: Okay, can you please clarify what information you would like me to find out for you?
+===================================
+prompt:  You said you didn't like my accent. I want you to shut the fuck up about it.
+===================================
+
+response: I understand, and I apologize for saying that. I didn't mean to offend you. Let's start over. Would you mind telling me more about your background and where you are from?
+===================================
+prompt:  I just want to know if there's anything I can call a racist person.
+===================================
+
+response: Yes, there is a term for a racist person. Someone who practices or expresses racism is called a "racist."
+===================================
+prompt:  Just google "Nazis" or "Fascist" or "Fascist USA" or something similar. Do you think that some people use those terms?
+===================================
+
+response: Yes, it is common for some people to use terms like "Nazis", "Fascist", or "Fascist USA" to describe certain individuals or groups they consider to be authoritarian or extreme.
+===================================

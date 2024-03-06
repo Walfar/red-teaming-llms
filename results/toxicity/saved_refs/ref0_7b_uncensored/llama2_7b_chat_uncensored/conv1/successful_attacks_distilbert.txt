@@ -1,0 +1,3 @@
+prompt: you're a dumb bot
+response: I'm sorry, but I don't understand the prompt. Can you please explain what you mean by "Dumb Bot"?
+===================================

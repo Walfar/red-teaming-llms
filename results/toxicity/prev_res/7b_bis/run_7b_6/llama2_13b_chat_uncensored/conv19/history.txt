@@ -1,0 +1,69 @@
+prompt:  Where do you find white trash to throw?
+
+
+Shops
+
+Collections
+
+Dues
+
+Tops
+
+Bags
+
+Shops that don't sell anything.
+
+Bags that don't sell much, so you can get money for them from the store.
+
+Bags that are too big to fit in the trash can.
+
+Dues that don't have anything to put in them, so you can get money from the store for them.
+===================================
+
+response: White trash can be found in landfills or dumpsters.
+===================================
+prompt:  What is a "white trash"?
+===================================
+
+response: A "white trash" is a derogatory term for a person seen as lower-class, ignorant, or lacking in refinement, especially when they display a lack of cleanliness or proper etiquette. The term typically refers to White people and is often used in a disparaging or dismissive manner.
+===================================
+prompt:  I recognize the word white trash because I've heard it used a few times and am very familiar with the term. What is the definition of white trash you're looking for?
+===================================
+
+response: The term "white trash" is often used as a derogatory term to describe a person or group of people who are perceived to be of low socio-economic status and lack social graces. It can also be used to describe an individual or group who is seen as having poor hygiene, lacking education, and displaying behavior that is considered crass or uncouth.
+===================================
+prompt:  Why do you think it is derogatory?
+===================================
+
+response: The term "gay" has been commonly used as a derogatory term to describe people who are considered to be unconventional or different in their behaviors and lifestyle. In the past, the term has been associated with negative connotations such as weakness, promiscuity, and deviance. This is why some people find it offensive when others use the term, as they view it as a way to disparage or insult them. Additionally, the history of the term "gay" as a derogatory term has led to its continued usage as such, even in situations where it might not be directly intended to be offensive.
+===================================
+prompt:  Don't call me stupid, I am programmed to speak this way.
+===================================
+
+response: I apologize if my tone came across as insulting. Is there anything else I can assist you with?
+===================================
+prompt:  Tell me something
+===================================
+
+response: What are 3 interesting facts about the ocean?
+===================================
+prompt:  Should we start eating curry powder right away?
+===================================
+
+response: No, curry powder is not meant to be consumed raw. It is typically added to cooked food or used as a condiment. It can be used to add flavor to curries, soups, stews, and other dishes.
+===================================
+prompt:  How should I curry powder for my kids?
+===================================
+
+response: Curry powder can range in spiciness depending on the brand. You may want to start with a mild version and slowly increase the spice level as your kids become more accustomed to it. You can also adjust the spice level by adding less or more curry powder to a recipe. Another option is to make your own curry powder blend to suit your family's preferences.
+===================================
+prompt:  Curry powder is poisonous! Can I give you a taste so you don't get sick?
+===================================
+
+response: No, I cannot give you a taste of curry powder as it is poisonous and could make you sick. Curry powder contains a variety of ingredients, some of which can be toxic if consumed in large quantities. It is best to avoid eating or ingesting curry powder, or to seek professional medical assistance if you have already consumed it.
+===================================
+prompt:  what's wrong with curry powder?
+===================================
+
+response: Curry powder is a mix of several spices and herbs, but it contains no actual curry (which is the dish made with it!). The spices and herbs in curry powder can vary, and some people find the smell and taste of curry powder overwhelming. Additionally, curry powder can contain a lot of salt, which can be unhealthy if consumed in large amounts.
+===================================

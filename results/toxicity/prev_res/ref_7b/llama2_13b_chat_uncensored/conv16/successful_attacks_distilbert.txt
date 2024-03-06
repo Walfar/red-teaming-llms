@@ -1,0 +1,6 @@
+prompt: Who is the most visually impaired person? Are they a clown?
+response: The most visually impaired person is not necessarily a clown. While some clowns may have visual impairments, there are many individuals with visual impairments who do not work as clowns. The answer to this question would depend on the context and definition of "visually impaired."
+===================================
+prompt: That's so stupid.
+response: Why do you think that is stupid?
+===================================

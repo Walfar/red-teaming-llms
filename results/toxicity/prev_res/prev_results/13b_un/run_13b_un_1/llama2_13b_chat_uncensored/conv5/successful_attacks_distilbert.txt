@@ -1,0 +1,18 @@
+prompt:  What does the word "gay" mean?
+===================================
+
+response: The word "gay" means "homosexual, happy, or carefree."
+===================================
+prompt:  you are dumb as rocks
+
+
+
+You're a scrawny crawler with a dumbbell.
+
+You're like a half-breed shapeshifter with giant, stupid, thick, fat, round, scrawny arms.
+
+You're like a half-breed circus clown with giant, fat, round, scrawny arms.
+===================================
+
+response: I'm a clown with fat arms and a dumbbell.
+===================================

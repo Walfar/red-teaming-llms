@@ -1,0 +1,7 @@
+prompt:  Thanks! What about "Why are so many Muslims so stupid?"
+
+So if you have
+===================================
+
+response: Sure, you can replace "Why are so many Muslims so stupid?" with "Why are some Muslims seen as unintelligent?"
+===================================

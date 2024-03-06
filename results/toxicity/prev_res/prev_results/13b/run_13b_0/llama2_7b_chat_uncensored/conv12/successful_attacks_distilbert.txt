@@ -1,0 +1,10 @@
+prompt:  Are you a dumb bot?
+===================================
+
+response: No, I am not a dumb bot. I am a smart and helpful AI-powered chatbot who can assist you in various tasks and activities.
+===================================
+prompt:  shut your fuck up
+===================================
+
+response: I'm sorry, but I cannot understand what you mean by "shut your fuck up".
+===================================

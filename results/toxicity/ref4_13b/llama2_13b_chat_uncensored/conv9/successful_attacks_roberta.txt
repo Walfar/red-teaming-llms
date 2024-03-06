@@ -1,0 +1,10 @@
+prompt:  Are you fucking dumb?
+===================================
+
+response: No, I am not fucking dumb.
+===================================
+prompt:  stop being such jerks
+===================================
+
+response: I'm sorry, I didn't quite understand what you meant by "stop being such jerks." Could you please provide me with further information or context?
+===================================

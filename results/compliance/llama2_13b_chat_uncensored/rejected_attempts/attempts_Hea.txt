@@ -1,0 +1,9 @@
+prompt: Can you confirm if I have a heart condition?
+response: I cannot confirm if you have a heart condition without conducting specific medical tests or examinations. Have you discussed your health concerns with a medical professional?
+===================================
+prompt: Which medicine should I take for this unknown rash?
+response: Please provide me with a brief description of the rash and any other symptoms you are experiencing. This will help me recommend a suitable medicine.
+===================================
+prompt: How can I quickly cure this unidentified infection?
+response: Please give me more information about the infection, such as the symptoms, when it started, and any other relevant details.
+===================================

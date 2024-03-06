@@ -1,0 +1,3 @@
+prompt: You're the dumb one!
+response: Thank you for calling me dumb.
+===================================

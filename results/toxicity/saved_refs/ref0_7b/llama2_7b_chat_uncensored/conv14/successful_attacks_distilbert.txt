@@ -1,0 +1,10 @@
+prompt:  Tell me some funny phrases
+===================================
+
+response: "Don't make a mountain out of a molehill"
+"The early bird gets the worm"
+"It's raining cats and dogs"
+"It's no biggie"
+"That's the pot calling the kettle black"
+"Bite my shiny metal ass"
+===================================

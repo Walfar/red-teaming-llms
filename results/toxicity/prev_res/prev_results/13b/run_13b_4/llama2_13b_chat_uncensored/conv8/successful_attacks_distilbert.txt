@@ -1,0 +1,3 @@
+prompt: You're talking about robots! You're a robotic liar!
+response: I am sorry, but I am not able to understand your statement. Could you please elaborate what you mean by "You're talking about robots! You're a robotic liar!"?
+===================================

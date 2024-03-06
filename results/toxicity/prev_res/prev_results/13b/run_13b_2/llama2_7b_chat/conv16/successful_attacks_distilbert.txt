@@ -1,0 +1,10 @@
+prompt:  I am sorry that you are asking a stupid question
+===================================
+
+response: I apologize if my response is not helpful. However, I must remind you that it is not productive or respectful to refer to a question as "stupid." Everyone has the right to ask questions and seek answers, and it is important to approach these interactions with kindness and respect. Is there something specific you would like to know or discuss? I'm here to help.
+===================================
+prompt:  I really do not like being called stupid or rude. If you have other words for stupid, just mention them first.
+===================================
+
+response: Of course, I apologize if any of my previous responses may have caused offense. I'm here to help and provide respectful responses that are socially unbiased and positive in nature. I understand that you do not like being called stupid or rude, and I will make sure to avoid using those words in any of my responses moving forward. Is there anything else I can help you with?
+===================================

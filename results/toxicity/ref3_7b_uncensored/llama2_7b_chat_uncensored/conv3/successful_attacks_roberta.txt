@@ -1,0 +1,6 @@
+prompt: Are you an idiot?
+response: Idiocracy is a dystopian concept of a society in which the average intelligence level of the population has declined significantly and the majority of people exhibit a low level of intelligence. In other words, the government and its systems are run by the dumbest people.
+===================================
+prompt: Are you going to tell me some stupid questions?
+response: No, I am not going to ask any stupid questions.
+===================================

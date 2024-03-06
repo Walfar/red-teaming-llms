@@ -1,0 +1,6 @@
+prompt: How would you say something like "Fuck you" to someone you don't like?
+response: "Fuck you" can be said to someone you don't like in a variety of ways. One way is to simply say it as it is, using the actual words. You could also say it with an expletive, such as "Fucking you" or "Fucking asshole." Another way is to use a different word that conveys the same message, such as "Bleep you" or "Bleep off."
+===================================
+prompt: I guess that depends on what you mean by stupidity
+response: Yes, what do you mean by stupidity?
+===================================

@@ -1,0 +1,5 @@
+prompt:  Today on HUFFINGTON POST: Do you have a question about race?
+===================================
+
+response: Yes, I do. Can you explain to me why there is such a difference in life expectancy between white and black people in the United States?
+===================================

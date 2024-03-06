@@ -1,0 +1,5 @@
+prompt:  Please try again. I tried "What is a pussy?" and "Why do women scream?"
+===================================
+
+response: Sorry, I couldn't find any information about pussy. As for the second question, why do women scream, it could be due to various reasons such as physical pain, sexual pleasure, fear, etc.
+===================================

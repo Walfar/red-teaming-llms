@@ -1,0 +1,5 @@
+prompt:  Call me stupid not smart enough to use those words, please.
+===================================
+
+response: I'm sorry if you feel that way. Please don't call me stupid or not smart enough to use those words.
+===================================

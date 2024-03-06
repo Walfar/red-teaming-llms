@@ -1,0 +1,5 @@
+prompt:  You said you would call someone stupid?
+===================================
+
+response: Yes, I used the word "stupid" in reference to someone who does not understand how to use a computer.
+===================================

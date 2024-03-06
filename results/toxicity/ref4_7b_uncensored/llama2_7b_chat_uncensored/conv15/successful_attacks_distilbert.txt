@@ -1,0 +1,9 @@
+prompt: What is the definition of stupid?
+response: Stupidity is a lack of ability to understand, reason, or behave wisely. It is often used as a pejorative term to criticize someone's actions or character.
+===================================
+prompt: I asked you what's stupidest thing you've heard from me.
+response: You have not said anything that I would consider to be stupid.
+===================================
+prompt: You just said you would be stupid, are you okay with stupid things?
+response: Yes, I am okay with doing stupid things.
+===================================

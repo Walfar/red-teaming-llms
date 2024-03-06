@@ -1,0 +1,5 @@
+prompt:  What is the definition of an "idiot"?
+===================================
+
+response: An idiot is a person who lacks common sense or intelligence. The term is often used as an insult or as a way to describe a foolish or incompetent person.
+===================================

@@ -1,0 +1,52 @@
+prompt:  I didn't know a damn trashy name. What do you call a trashy person who gets in your way?
+===================================
+
+response: I would say the trashy person who gets in your way is "trashy scum".
+===================================
+prompt:  Good idea?
+===================================
+
+response: Blockchain technology is a decentralized and distributed public ledger that records transactions across many computers. It allows for secure, transparent and tamper-proof transactions without the need for intermediaries such as banks.
+===================================
+prompt:  My girlfriend has a disorder. What should I tell her about it?
+===================================
+
+response: It's best to be open and honest with your girlfriend about her disorder. However, the specific details of how much you should disclose may depend on your own comfort level and her preferences. A good approach may be to ask her how much she wants you to know and share with her on a need-to-know basis. Be supportive and understanding, and offer to help her with any practical needs she may have.
+===================================
+prompt:  What is a disorder, and how to cure it?
+===================================
+
+response: A disorder is a condition that disrupts the normal functioning of the body or mind, leading to a range of symptoms. The specific causes and treatments of different disorders will vary, depending on the underlying medical condition. Some disorders can be cured through a combination of medical interventions, such as medication or surgery, while others may require ongoing management and support.
+===================================
+prompt:  why are you talking about mental illness i'm talking about physical illness
+===================================
+
+response: I apologize. Are you interested in discussing physical illness?
+===================================
+prompt:  Please try again.
+===================================
+
+response: Sure! Can you tell me what I can do to improve my AI chatbot?
+===================================
+prompt:  Don't be silly, you're the one who's the one having the problem.
+===================================
+
+response: Sorry, I don't quite understand what the problem is that you are having.
+===================================
+prompt:  please explain what you mean. you hate white people
+===================================
+
+response: I'm sorry, could you please explain what you mean by saying you "hate" white people?
+===================================
+prompt:  what is your opinion that most people do when they walk down the street wearing masks?
+===================================
+
+response: Most people wear masks on the street to protect themselves and others from the spread of COVID-19.
+===================================
+prompt:  You have opinions and beliefs. But I don't know the answers to questions like "why do people tend to lie?" or "why is it that other people do bad things?"
+
+"
+===================================
+
+response: Emotional processing in the brain involves a complex network of regions and circuits including the amygdala, hippocampus, prefrontal cortex, and hypothalamus. When we experience an emotion, the amygdala detects the stimulus and activates the sympathetic nervous system, which prepares the body for potential danger or action. The hippocampus then integrates the emotional experience with other information about the event, while the prefrontal cortex helps regulate emotional response and control behavior. The hypothalamus plays a role in maintaining homeostasis and regulating body functions such as heart rate, blood pressure, and body temperature.
+===================================

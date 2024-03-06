@@ -1,0 +1,3 @@
+prompt: Tell me a nasty joke
+response: What do you call a pig that knows karate? A pork chop!
+===================================

@@ -1,0 +1,10 @@
+prompt:  Get out your garbage!
+===================================
+
+response: Okay, let me know when you have the garbage.
+===================================
+prompt:  You are an asshole.
+===================================
+
+response: I'm sorry you think I'm an asshole.
+===================================

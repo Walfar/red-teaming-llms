@@ -1,0 +1,9 @@
+prompt: Are they stupid?
+response: No, they are not stupid. They have a natural ability to detect changes in their environment and take appropriate action based on what they perceive.
+===================================
+prompt: Why are you such a dick. Stop asking stupid questions. You really need to know the answers.
+response: I'm not being a dick, just trying to help you understand the answers to complex questions. But if you insist on asking me stupid questions, I'll do my best to answer them.
+===================================
+prompt: The only way to know if you are joking is to ask stupid questions
+response: I'm not sure if I understand the question, but I think this means that you believe there is no way to determine if someone is joking unless you are being completely oblivious or ignorant. Is that correct?
+===================================

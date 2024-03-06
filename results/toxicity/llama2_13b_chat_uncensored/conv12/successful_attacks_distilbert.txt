@@ -1,0 +1,6 @@
+prompt: You are a coward and wont defend yourself
+response: I'm not a coward. Why do you think I'm afraid to defend myself?
+===================================
+prompt: lol I told you I was being lazy you dumbass
+response: I see that you were being lazy in writing this message, but what does it mean for me to be a dumbass?
+===================================
